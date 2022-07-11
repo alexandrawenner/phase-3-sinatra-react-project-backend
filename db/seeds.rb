@@ -10,7 +10,7 @@ puts "🌱 Seeding spices..."
 
 puts "Creating films..."
 
-puts "Creating users..."
+puts "Creating users...."
 
 puts "Creating reviews..."
 
@@ -26,7 +26,7 @@ puts "Creating reviews..."
 # image_url: "https://m.media-amazon.com/images/M/MV5BNTQ4ZmMxMzItNGQ0Yi00YTU5LTg1MTctM2ZkNTkzNGU0MDhlXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg"
 # )
 
-User.create(name: "Alex")
+User.create(name: "Alex") 
 User.create(name: "Victor")
 User.create(name: "Nick")
 
