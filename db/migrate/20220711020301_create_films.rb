@@ -13,5 +13,3 @@ class CreateFilms < ActiveRecord::Migration[6.1]
     end
   end
 end
-
-#Ask if we need to add the foreign keys for user_id and film_id
