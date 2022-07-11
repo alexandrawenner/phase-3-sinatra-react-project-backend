@@ -28,8 +28,12 @@ gem "sinatra-activerecord", "~> 2.0"
 # https://github.com/ruby/rake
 gem "rake", "~> 13.0"
 
+gem "rest-client" 
+
 # Provides functionality to interact with a SQLite3 database
 gem "sqlite3", "~> 1.4"
+
+gem "faker"
 
 # Require all files in a folder
 gem "require_all", "~> 3.0"

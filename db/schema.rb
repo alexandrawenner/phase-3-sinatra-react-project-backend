@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2022_07_11_020411) do
+ActiveRecord::Schema.define(version: 2022_07_11_163937) do
 
   create_table "films", force: :cascade do |t|
     t.string "title"
@@ -22,6 +22,7 @@ ActiveRecord::Schema.define(version: 2022_07_11_020411) do
     t.string "synopsis"
     t.string "critics_consensus"
     t.string "image_url"
+    t.string "trailer"
   end
 
   create_table "reviews", force: :cascade do |t|

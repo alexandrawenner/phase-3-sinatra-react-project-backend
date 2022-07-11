@@ -10,6 +10,7 @@ class CreateFilms < ActiveRecord::Migration[6.1]
       t.string :synopsis
       t.string :critics_consensus
       t.string :image_url
+      t.string :trailer
     end
   end
 end
