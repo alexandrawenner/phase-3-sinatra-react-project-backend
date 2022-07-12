@@ -22,7 +22,8 @@ class ReviewsController < ApplicationController
 
   # Posts a review for a specific film  
   post "/films/:id/reviews" do
-    review = Review.create(review_body: params[:review_body], film_id: params[:id], user_id: params[:user_id])
+    user = User.find_by(name: params[:name])
+    review = Review.create(review_body: params[:review_body], film_id: params[:id], user_id: user.id)
     review.to_json
   end
 
