@@ -8,7 +8,7 @@ class ReviewsController < ApplicationController
   end
 
   # Deletes a review
-  delete "/review/:id" do
+  delete "/reviews/:id" do
     user_review = Review.find(params[:id])
     user_review.destroy
     user_reviews.to_json
