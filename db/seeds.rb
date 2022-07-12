@@ -12,7 +12,8 @@ array = [
         synopsis: "Marcel is an adorable, 1-inch-tall shell who ekes out a colorful existence with his grandmother, Connie, and their pet lint, Alan. Once part of a sprawling community of shells, they now live alone as the sole survivors of a mysterious tragedy. However, when a documentary filmmaker discovers them, the short film he posts online brings Marcel millions of passionate fans, as well as unprecedented dangers and a new hope of finding his long-lost family.",
         critics_consensus: "Poignant, profound, and utterly heartwarming, Marcel the Shell with Shoes On is animated entertainment with real heart.",
         image_url: "https://m.media-amazon.com/images/M/MV5BNTQ4ZmMxMzItNGQ0Yi00YTU5LTg1MTctM2ZkNTkzNGU0MDhlXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=k98Afd7Nf3Y&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=k98Afd7Nf3Y&ab_channel=A24",
+        genre: "comedy, animation"
             },
             {
         title: "Lady Bird",
@@ -24,7 +25,8 @@ array = [
         synopsis: "A nurse works tirelessly to keep her family afloat after her husband loses his job. She also maintains a turbulent bond with a teenage daughter who is just like her: loving, strong-willed and deeply opinionated.",
         critics_consensus: "Lady Bird delivers fresh insights about the turmoil of adolescence -- and reveals writer-director Greta Gerwig as a fully formed filmmaking talent.",
         image_url: "https://m.media-amazon.com/images/I/81AuyLA3SLL._AC_SL1500_.jpg",
-        trailer: "https://www.youtube.com/watch?v=cNi_HC839Wo&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=cNi_HC839Wo&ab_channel=A24",
+        genre: "comedy, drama"
             },
             {
         title: "Eighth Grade",
@@ -36,7 +38,8 @@ array = [
         synopsis: "Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school -- the end of her thus far disastrous eighth-grade year.",
         critics_consensus: "Eighth Grade takes a look at its titular time period that offers a rare and resounding ring of truth while heralding breakthroughs for writer-director Bo Burnham and captivating star Elsie Fisher.",
         image_url: "https://m.media-amazon.com/images/I/41CZoQKlPQL._AC_SY580_.jpg",
-        trailer: "https://www.youtube.com/watch?v=y8lFgF_IjPw&ab_channel=A24"
+        trailer: "ttps://www.youtube.com/watch?v=y8lFgF_IjPw&ab_channel=A24",
+        genre: "comedy, drama"
             },
             {
         title: "Moonlight",
@@ -48,7 +51,8 @@ array = [
         synopsis: "A look at three defining chapters in the life of Chiron, a young black man growing up in Miami. His epic journey to manhood is guided by the kindness, support and love of the community that helps raise him.",
         critics_consensus: "Moonlight uses one man's story to offer a remarkable and brilliantly crafted look at lives too rarely seen in cinema.",
         image_url: "https://m.media-amazon.com/images/I/91PbfpzX5uL._AC_SY679_.jpg",
-        trailer: "https://www.youtube.com/watch?v=9NJj12tJzqc&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=9NJj12tJzqc&ab_channel=A24",
+        genre: "drama, lgbtq+"
             },
             {
         title: "Minari",
@@ -60,7 +64,8 @@ array = [
         synopsis: "A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of this new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home.",
         critics_consensus: "Led by arresting performances from Steven Yeun and Yeri Han, Minari offers an intimate and heart-wrenching portrait of family and assimilation in 1980s America.",
         image_url: "https://d135u4jtzauizi.cloudfront.net/A24_MINARI_POSTER.jpg",
-        trailer: "https://www.youtube.com/watch?v=KQ0gFidlro8&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=KQ0gFidlro8&ab_channel=A24",
+        genre: "drama"
             },
             {
         title: "The Farewell",
@@ -72,7 +77,8 @@ array = [
         synopsis: "Billi's family returns to China under the guise of a fake wedding to stealthily say goodbye to their beloved matriarch -- the only person that doesn't know she only has a few weeks to live.",
         critics_consensus: "The Farewell deftly captures complicated family dynamics with a poignant, well-acted drama that marries cultural specificity with universally relatable themes.",
         image_url: "https://m.media-amazon.com/images/I/413DMIigIUL._AC_.jpg",
-        trailer: "https://www.youtube.com/watch?v=RofpAjqwMa8&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=RofpAjqwMa8&ab_channel=A24",
+        genre: "comedy, drama"
             },
             {
         title: "The Florida Project",
@@ -84,7 +90,8 @@ array = [
         synopsis: "Set in the shadow of the most magical place on Earth, 6-year-old Moonee and her two best friends forge their own adventures, while Moonee's struggling mom and a kindhearted motel manager protect the kids from the harsh reality that surrounds them.",
         critics_consensus: "The Florida Project offers a colorfully empathetic look at an underrepresented part of the population that proves absorbing even as it raises sobering questions about modern America.",
         image_url: "https://m.media-amazon.com/images/I/91rBWyKGWJL._AC_SL1500_.jpg",
-        trailer: "https://www.youtube.com/watch?v=WwQ-NH1rRT4&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=WwQ-NH1rRT4&ab_channel=A24",
+        genre: "drama"
             },
             {
         title: "First Cow",
@@ -96,7 +103,8 @@ array = [
         synopsis: "Two travelers, on the run from a band of vengeful hunters in the 1820s Northwest, dream of striking it rich -- but their tenuous plan to make their fortune on the frontier comes to rely on the secret use of a landowner's prized dairy cow.",
         critics_consensus: "First Cow finds director Kelly Reichardt revisiting territory and themes that will be familiar to fans of her previous work -- with typically rewarding results.",
         image_url: "https://i.ytimg.com/vi/_BRVNsAFkhw/movieposter_en.jpg",
-        trailer: "https://www.youtube.com/watch?v=SRUWVT87mt8&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=SRUWVT87mt8&ab_channel=A24",
+        genre: "western, drama"
             },
             {
         title: "Menashe",
@@ -108,7 +116,8 @@ array = [
         synopsis: "Deep in the heart of New York's notoriously secretive Hasidic Jewish community, Menashe, a good-hearted but somewhat hapless grocery store clerk, struggles against tradition to keep custody of his only son after his wife passes away.",
         critics_consensus: "Menashe offers an intriguing look at a culture whose unfamiliarity to many viewers will be rendered irrelevant by the story's universally affecting themes and thoughtful approach.",
         image_url: "https://m.media-amazon.com/images/I/71pCAeK43+L._AC_SL1000_.jpg",
-        trailer: "https://www.youtube.com/watch?v=83UoZcdX__Y&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=83UoZcdX__Y&ab_channel=A24",
+        genre: "comedy, drama"
             },
             {
         title: "Everything, Everywhere, All at Once",
@@ -120,7 +129,8 @@ array = [
         synopsis: "When an interdimensional rupture unravels reality, an unlikely hero must channel her newfound powers to fight bizarre and bewildering dangers from the multiverse as the fate of the world hangs in the balance.",
         critics_consensus: "Led by an outstanding Michelle Yeoh, Everything Everywhere All at Once lives up to its title with an expertly calibrated assault on the senses.",
         image_url: "https://m.media-amazon.com/images/I/71ZA7dqWjFL._AC_SY450_.jpg",
-        trailer: "https://www.youtube.com/watch?v=wxN1T1uxQ2g&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=wxN1T1uxQ2g&ab_channel=A24",
+        genre: "comedy, adventure"
             },
             {
         title: "Amy",
@@ -132,7 +142,8 @@ array = [
         synopsis: "Archival footage and personal testimonials present an intimate portrait of the life and career of British singer/songwriter Amy Winehouse.",
         critics_consensus: "As riveting as it is sad, Amy is a powerfully honest look at the twisted relationship between art and celebrity -- and the lethal spiral of addiction.",
         image_url: "https://m.media-amazon.com/images/I/71VNCp1lHCL._AC_SL1334_.jpg",
-        trailer: "https://www.youtube.com/watch?v=_2yCIwmNuLE&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=_2yCIwmNuLE&ab_channel=A24",
+        genre: "documentary, biography"
             },
             {
         title: "X",
@@ -144,7 +155,8 @@ array = [
         synopsis: "A group of actors sets out to make an adult film in rural Texas under the noses of their reclusive hosts, but when the elderly couple catches their young guests in the act, the cast finds themselves in a desperate fight for their lives.",
         critics_consensus: "A fresh spin on the classic slasher formula, X marks the spot where Ti West gets resoundingly back to his horror roots.",
         image_url: "https://d135u4jtzauizi.cloudfront.net/X_Poster_A24.jpg",
-        trailer: "https://www.youtube.com/watch?v=Awg3cWuHfoc&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=Awg3cWuHfoc&ab_channel=A24",
+        genre: "horror, mystery, thriller"
             },
             {
         title: "De Palma",
@@ -156,7 +168,8 @@ array = [
         synopsis: "Filmmaker Brian De Palma discusses his body of work, including 'Sisters,' 'Obsession,' 'Carrie,' 'Dressed to Kill,' 'Blow Out,' 'Scarface,' 'The Untouchables,' 'Carlito's Way' and 'Mission: Impossible.'",
         critics_consensus: "De Palma may not make believers out of the director's detractors, but they'll likely share longtime fans' fascination with his career's worth of entertaining stories.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMjA5NDExMjA2Nl5BMl5BanBnXkFtZTgwMDQ4ODM2ODE@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=97XoMjwoZ5w&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=97XoMjwoZ5w&ab_channel=A24",
+        genre: "documentary"
             },
             {
         title: "Krisha",
@@ -168,7 +181,8 @@ array = [
         synopsis: "When Krisha shows up at her sister's Texas home on Thanksgiving morning, her close and extended family greet her with a mixture of warmth and wariness. Almost immediately, a palpable unease permeates the air, one which only grows in force as Krisha gets to work cooking the turkey and trying to make up for lost time by catching up with her various relatives, chief among them her nephew, Trey. As Krisha's attempts at reconciliation become increasingly rebuffed, tension and suspicion reach their peak, with long-buried secrets and deep-seated resentments coming to the fore as everyone becomes immersed in an emotionally charged familial reckoning.",
         critics_consensus: "Raw, bracingly honest, and refreshingly unconventional, Krisha wrings fresh -- and occasionally uncomfortable -- truths from a seemingly familiar premise.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91dv1zCckNL._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=wnX_lLuENfI&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=wnX_lLuENfI&ab_channel=A24",
+        genre: "holiday, drama"
             },
             {
         title: "First Reformed",
@@ -180,7 +194,8 @@ array = [
         synopsis: "The pastor of a small church in upstate New York lives a quiet life, which spirals out of control after a soul-shaking encounter with an unstable environmental activist and his pregnant wife.",
         critics_consensus: "Brought to life by delicate work from writer-director Paul Schrader and elevated by a standout performance by Ethan Hawke, First Reformed takes a sensitive and suspenseful look at weighty themes.",
         image_url: "https://m.media-amazon.com/images/I/61Ia5RTgV5L._SL1500_.jpg",
-        trailer: "https://www.youtube.com/watch?v=hCF5Y8dQpR4&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=hCF5Y8dQpR4&ab_channel=A24",
+        genre: "drama"
             },
             {
         title: "Boys State",
@@ -192,7 +207,8 @@ array = [
         synopsis: "A raucous journey into the heart of democracy captures an unusual rite of passage: 1,100 teenage boys from across Texas come together to build a representative government from the ground up.",
         critics_consensus: "Startling, upsetting, and overall absorbing, Boys State strikingly depicts American political divisions -- and machinations -- taking root in the next generation.",
         image_url: "https://m.media-amazon.com/images/M/MV5BN2JmMzA1OTgtYTJmMC00Y2Q2LTg2ZWQtMzg2MWQ4MjFmODZkXkEyXkFqcGdeQXVyMjAwNTYzNDg@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=E1Kh_T5ZBIM&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=E1Kh_T5ZBIM&ab_channel=A24",
+        genre: "documentary"
             },
             {
         title: "Room",
@@ -204,7 +220,8 @@ array = [
         synopsis: "Held captive for years in an enclosed space, a woman (Brie Larson) and her young son (Jacob Tremblay) finally gain their freedom, allowing the boy to experience the outside world for the first time.",
         critics_consensus: "Led by incredible work from Brie Larson and Jacob Tremblay, Room makes for an unforgettably harrowing -- and undeniably rewarding -- experience.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=E_Ci-pAL4eE&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=E_Ci-pAL4eE&ab_channel=A24",
+        genre: "drama"
             },
             {
         title: "C'mon C'mon",
@@ -216,7 +233,8 @@ array = [
         synopsis: "Johnny is an emotionally stunted and soft spoken radio journalist who travels the country interviewing a variety of kids about their thoughts concerning their world and their future. Then Johnny's saddled with caring for his young nephew Jesse. Jesse brings a new perspective and, as they travel from state to state, effectively turns the emotional tables on Johnny.",
         critics_consensus: "The sweet chemistry between Joaquin Phoenix and Woody Norman is complemented by writer-director Mike Mills' empathetic work, helping C'mon C'mon transcend its familiar trappings.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMzkwZWJhOTUtZTJkMC00OWQ5LTljZDctYzgxNWFiYjEyZjZiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg",
-        trailer: "https://www.youtube.com/watch?v=7mzushAOM88&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=7mzushAOM88&ab_channel=A24",
+        genre: "drama"
             },
             {
         title: "Saint Maud",
@@ -228,7 +246,8 @@ array = [
         synopsis: "Maud is a reclusive young nurse whose impressionable demeanor causes her to pursue a pious path of Christian devotion after an obscure trauma. Now charged with the hospice care of Amanda, a retired dancer ravaged by cancer, Maud's fervent faith quickly inspires an obsessive conviction that she must save her ward's soul from eternal damnation, whatever the cost.",
         critics_consensus: "A brilliantly unsettling blend of body horror and psychological thriller, Saint Maud marks an impressive debut for writer-director Rose Glass.",
         image_url: "https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2020/07/saint-maud.jpg?ssl=1",
-        trailer: "https://www.youtube.com/watch?v=EXs2-TY9qok&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=EXs2-TY9qok&ab_channel=A24",
+        genre: "horror"
             },
             {
         title: "Val",
@@ -240,7 +259,8 @@ array = [
         synopsis: "A look at the daily life of actor Val Kilmer with never-before-seen images spanning forty years of his career.",
         critics_consensus: "An absorbingly reflective documentary that benefits from its subject's self-chronicling, Val offers an intimate look at a unique life and career.",
         image_url: "https://upload.wikimedia.org/wikipedia/en/2/2f/Val_poster.jpeg",
-        trailer: "https://www.youtube.com/watch?v=YqNnhgEyQCU&ab_channel=PrimeVideo"
+        trailer: "https://www.youtube.com/watch?v=YqNnhgEyQCU&ab_channel=PrimeVideo",
+        genre: "documentary, biography"
             },
             {
         title: "Uncut Gems",
@@ -252,7 +272,8 @@ array = [
         synopsis: "A charismatic jeweler makes a high-stakes bet that could lead to the windfall of a lifetime. In a precarious high-wire act, he must balance business, family and adversaries on all sides in pursuit of the ultimate win.",
         critics_consensus: "Uncut Gems reaffirms the Safdies as masters of anxiety-inducing cinema -- and proves Adam Sandler remains a formidable dramatic actor when given the right material.",
         image_url: "https://m.media-amazon.com/images/I/81fMAYnOETL._AC_SY741_.jpg",
-        trailer: "https://www.youtube.com/watch?v=vTfJp2Ts9X8&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=vTfJp2Ts9X8&ab_channel=A24",
+        genre: "comedy, mystery, thriller"
             },
             {
         title: "Ex Machina",
@@ -264,7 +285,8 @@ array = [
         synopsis: "Caleb Smith, a programmer at an internet-search giant, wins a competition to spend a week at the private mountain estate of the company's brilliant and reclusive CEO, Nathan Bateman. Upon his arrival, Caleb learns that Nathan has chosen him to be the human component in a Turing Test-charging him with evaluating the capabilities, and ultimately the consciousness, of Nathan's latest experiment in artificial intelligence. That experiment is Ava, a breathtaking A.I. whose emotional intelligence proves more sophisticated--and more deceptive--than the two men could have imagined.",
         critics_consensus: "Ex Machina leans heavier on ideas than effects, but it's still a visually polished piece of work -- and an uncommonly engaging sci-fi feature.",
         image_url: "https://m.media-amazon.com/images/I/71f6I4cjM7L._AC_SY679_.jpg",
-        trailer: "https://www.youtube.com/watch?v=bggUmgeMCdc&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=bggUmgeMCdc&ab_channel=A24",
+        genre: "drama"
             },
             {
         title: "The Tragedy of Macbeth",
@@ -276,7 +298,8 @@ array = [
         synopsis: "A Scottish lord becomes convinced by a trio of witches that he will become the next King of Scotland. His ambitious wife will do anything to support him in his plans of seizing power.",
         critics_consensus: "Led by a stellar Denzel Washington, The Tragedy of Macbeth strips the classic story down to its visual and narrative essentials.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMzM0YWNmMDEtNmI3Yy00NjQ4LWJlZjMtMzk2YjUxOThhZGQxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
-        trailer: "https://www.youtube.com/watch?v=HM3hsVrBMA4&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=HM3hsVrBMA4&ab_channel=A24",
+        genre: "drama, mystery, thriller"
             },
             {
         title: "Good Time",
@@ -286,9 +309,10 @@ array = [
         director: "Josh Safdie, Benny Safdie",
         starring: "Robert Pattinson, Jennifer Jason Leigh, Barkhad Abdi, Benny Safdie",
         synopsis: "A bank robber stops at nothing to free his brother from prison, and launches himself into a whirlwind, night-long odyssey through New York's dark and dangerous criminal underworld.",
-        critics_consensus: "A visual treat filled out by consistently stellar work from Robert Pattinson, Good Time is a singularly distinctive crime drama offering far more than the usual genre thrills.",
+        critics_consensus: "A visual treat filled out by consistently stellar work from Robert Pattinson, Good Time is a singularly distinctive crime drama offering far more than the usual        genre thrills.",
         image_url: "https://m.media-amazon.com/images/M/MV5BNGQ3Y2VjNmUtMDdiMC00YTE1LWI5NmUtZDIzMTJmODQyNDU4XkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=AVyGCxHZ_Ko&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=AVyGCxHZ_Ko&ab_channel=A24",
+        genre: "drama, crime"
             },
             {
         title: "The Last Black Man in San Francisco",
@@ -300,7 +324,8 @@ array = [
         synopsis: "Jimmie and his best friend Mont try to reclaim the house built by Jimmie's grandfather, launching them on a poignant odyssey that connects them to their past, even as it tests their friendship and sense of belonging in the place they call home.",
         critics_consensus: "An affecting story powerfully told, The Last Black Man in San Francisco immediately establishes director Joe Talbot as a filmmaker to watch.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91N9LM3+FqL._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=C0FnJDhY9-0&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=C0FnJDhY9-0&ab_channel=A24",
+        genre: "drama"
             },
             {
         title: "The End of the Tour",
@@ -312,7 +337,8 @@ array = [
         synopsis: "Writer and journalist David Lipsky (Jesse Eisenberg) interviews author David Foster Wallace (Jason Segel) for Rolling Stone magazine.",
         critics_consensus: "Brilliantly performed and smartly unconventional, The End of the Tour pays fitting tribute to a singular talent while offering profoundly poignant observations on the human condition.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/8104vWOHCAL._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=9Jl6qBNfQC4&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=9Jl6qBNfQC4&ab_channel=A24",
+        genre: "drama"
             },
             {
         title: "Slow West",
@@ -324,7 +350,8 @@ array = [
         synopsis: "A young Scottish man travels across America in pursuit of the woman he loves, attracting the attention of an outlaw who is willing to serve as a guide. ",
         critics_consensus: "Slow West serves as an impressive calling card for first-time writer-director John M. Maclean -- and offers an inventive treat for fans of the Western.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/A1fBxlPRl3L._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=nRQFlVoHU2g&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=nRQFlVoHU2g&ab_channel=A24",
+        genre: "western"
             },
             {
         title:  "The Humans",
@@ -336,7 +363,8 @@ array = [
         synopsis: "Erik Blake gathers three generations of his Pennsylvania family to celebrate Thanksgiving at his daughter's apartment in lower Manhattan. As darkness falls and eerie things go bump in the night, the group's deepest fears are laid bare.",
         critics_consensus: "The Humans takes its Tony-winning source material from stage to screen without sacrificing the essence of writer-director Stephen Karam's dysfunctional drama.",
         image_url: "https://m.media-amazon.com/images/M/MV5BZDFhNWJjZDQtODgxNC00ZGZmLTkyYzItNTc0ZTVlODZkYjZkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
-        trailer: "https://www.youtube.com/watch?v=dp3Whb77eXc&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=dp3Whb77eXc&ab_channel=A24",
+        genre: "holiday"
             },
             {
         title: "A Prayer Before Dawn",
@@ -348,7 +376,8 @@ array = [
         synopsis: "The amazing true story of Billy Moore, an English boxer incarcerated in Thailand's most notorious prison. Thrown into a world of drugs and violence, he finds his best chance to escape is to fight his way out in Muay Thai tournaments.",
         critics_consensus: "A Prayer Before Dawn is far from an easy watch, but this harrowing prison odyssey delivers rich rewards -- led by an outstanding central performance from Joe Cole.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMzU5NzhlOGYtODE0YS00ZmUxLWI2YzctNTM0ZWNjMmJjMjBkXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=Mp88Nuci68c&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=Mp88Nuci68c&ab_channel=A24",
+        genre: "action"
             },
             {
         title: "The Disaster Artist",
@@ -360,7 +389,8 @@ array = [
         synopsis: "The incredible true story of aspiring filmmaker and Hollywood outsider Tommy Wiseau as he and his best friend defiantly pursue their dreams and embark on the hilarious odyssey of making the now-infamous, cult classic The Room.",
         critics_consensus: "Oh, hai Mark. The Disaster Artist is a surprisingly poignant and charming movie-about-a-movie that explores the creative process with unexpected delicacy.",
         image_url: "https://m.media-amazon.com/images/I/71ceAWOLo3L._AC_SY679_.jpg",
-        trailer: "https://www.youtube.com/watch?v=sPSJYXi7BWA&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=sPSJYXi7BWA&ab_channel=A24",
+        genre: "comedy, drama"
             },
             {
         title: "Locke",
@@ -372,7 +402,8 @@ array = [
         synopsis: "A man's (Tom Hardy) life unravels after he leaves a construction site at a critical time and drives to London to be present for the birth of a child conceived during a one-night stand.",
         critics_consensus: "A one-man show set in a single confined location, Locke demands a powerful performance -- and gets it from a never-more-compelling Tom Hardy.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMTQ1MjE5MzU2M15BMl5BanBnXkFtZTgwNzE4OTMzMTE@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=TsBDYAYnQb0&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=TsBDYAYnQb0&ab_channel=A24",
+        genre: "drama"
             },
             {
         title: "Gloria Bell",
@@ -384,7 +415,8 @@ array = [
         synopsis: "A free-spirited divorcee spends her nights on the dance floor, joyfully letting loose at clubs around Los Angeles. She soon finds herself thrust into an unexpected new romance, filled with the joys of budding love and the complications of dating.",
         critics_consensus: "Free of visual or narrative embellishments, Gloria Bell rests almost completely on Julianne Moore's performance in the title role -- and she's gloriously up to the task.",
         image_url: "https://m.media-amazon.com/images/I/81iLyvq7weL._AC_SY741_.jpg",
-        trailer: "https://www.youtube.com/watch?v=YCwCdQK2Qss&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=YCwCdQK2Qss&ab_channel=A24",
+        genre: "comedy, drama"
             },
             {
         title: "The Spectacular Now",
@@ -396,7 +428,8 @@ array = [
         synopsis: "Sutter, a popular party animal unexpectedly meets the introverted Aimee after waking up on a stranger's lawn. As Sutter deals with the problems in his life and Aimee plans for her future beyond school, an unexpected romance blossoms between them.",
         critics_consensus: "The Spectacular Now is an adroit, sensitive film that avoids typical coming-of-age story trappings.",
         image_url: "https://m.media-amazon.com/images/I/51VOtaU8dtL._AC_.jpg",
-        trailer: "https://www.youtube.com/watch?v=0dCfbBwFI2Y&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=0dCfbBwFI2Y&ab_channel=A24",
+        genre: "comedy, drama"
             },
             {
         title: "In Fabric",
@@ -408,7 +441,8 @@ array = [
         synopsis: "A lonely divorcee visits a bewitching London department store to find a dress to transform her life. She soon finds a perfect, artery-red gown that unleashes a malevolent, unstoppable curse.",
         critics_consensus: "In Fabric's gauzy giallo allure weaves a surreal spell, blending stylish horror and dark comedy to offer audiences a captivating treat.",
         image_url: "https://external-preview.redd.it/7SUqzumnwu1NESXfePTEk8Gt5v4fxcgvbOXlUOsCUEQ.jpg?width=640&crop=smart&auto=webp&s=4bbb93c4b6fa87dec26a495e747748712f4696b6",
-        trailer: "https://www.youtube.com/watch?v=biHUTtV4K40&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=biHUTtV4K40&ab_channel=A24",
+        genre: "horror, comedy"
             },
             {
         title: "The Souvenir Part II",
@@ -420,7 +454,8 @@ array = [
         synopsis: "After her turbulent relationship with an older man, Julie begins to deal with her complicated love for him and finds her voice while completing her graduation film.",
         critics_consensus: "Drawing on another terrific performance from Honor Swinton Byrne, The Souvenir Part II continues its story with profound emotional complexity and elegant storytelling.",
         image_url: "https://m.media-amazon.com/images/M/MV5BODllMjY0MWYtNTMzMi00MDU4LTllZjItY2ViMDkwNDRmZTI0XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=3PR_ZK57c54&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=3PR_ZK57c54&ab_channel=A24",
+        genre: "drama, romance"
             },
             {
         title: "Mississippi Grind",
@@ -430,9 +465,10 @@ array = [
         director: "Ryan Fleck, Anna Boden",
         starring: "Ryan Reynolds, Ben Mendelsohn, Sienna Miller, Analeigh Tipton",
         synopsis: "Convinced that his newfound friend (Ryan Reynolds) is a good-luck charm, a gambling addict (Ben Mendelsohn) takes the man on a road trip to a high-stakes poker game in New Orleans.",
-        critics_consensus: "Well-acted and steeped in Southern atmosphere, Mississippi Grind is a road movie and addiction drama that transcends each of its well-worn genres.",
+        critics_consensus: "Well-acted and steeped in Southern atmosphere, Mississippi Grind is a road movie and addiction drama that transcends each of its well-worn      genres.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91x+mShAn7L._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=7p1MNB6TNQU&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=7p1MNB6TNQU&ab_channel=A24",
+        genre: "drama"
             },
             {
         title: "The Lighthouse",
@@ -444,7 +480,8 @@ array = [
         synopsis: "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
         critics_consensus: "A gripping story brilliantly filmed and led by a pair of powerhouse performances, The Lighthouse further establishes Robert Eggers as a filmmaker of exceptional talent.",
         image_url: "https://upload.wikimedia.org/wikipedia/en/2/2c/The_Lighthouse.jpeg",
-        Title: "https://www.youtube.com/watch?v=Hyag7lR8CPA&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=Hyag7lR8CPA&ab_channel=A24",
+        genre: "drama"
             },
             {
         title: "The Witch",
@@ -456,7 +493,8 @@ array = [
         synopsis: "In 1630 New England, panic and despair envelops a farmer, his wife and their children when youngest son Samuel suddenly vanishes. The family blames Thomasin, the oldest daughter who was watching the boy at the time of his disappearance. With suspicion and paranoia mounting, twin siblings Mercy and Jonas suspect Thomasin of witchcraft, testing the clan's faith, loyalty and love to one another.",
         critics_consensus: "As thought-provoking as it is visually compelling, The Witch delivers a deeply unsettling exercise in slow-building horror that suggests great things for debuting writer-director Robert Eggers.",
         image_url: "https://upload.wikimedia.org/wikipedia/en/b/bf/The_Witch_poster.png",
-        trailer: "https://www.youtube.com/watch?v=iQXmlf3Sefg" 
+        trailer: "https://www.youtube.com/watch?v=iQXmlf3Sefg",
+        genre: "horror"
             },
             {
         title: "A Ghost Story",
@@ -468,7 +506,8 @@ array = [
         synopsis: "A recently deceased man returns as a ghost to his suburban home to console his bereft wife, only to find that in his spectral state, he has become stuck in time, forced to watch passively as the life he knew and the woman he loves slowly slip away.",
         critics_consensus: "A Ghost Story deftly manages its ambitious themes through an inventive, artful, and ultimately poignant exploration of love and loss.",
         image_url: "https://upload.wikimedia.org/wikipedia/en/d/dd/A_Ghost_Story_poster.jpeg",
-        trailer: "https://www.youtube.com/watch?v=c_3NMtxeyfk" 
+        trailer: "https://www.youtube.com/watch?v=c_3NMtxeyfk",
+        genre: "drama, fantasy"
             },
             {
         title: "Green Room",
@@ -478,9 +517,10 @@ array = [
         director: "Jeremy Saulnier",
         starring: "Anton Yelchin, Imogen Poots, Alia Shawkat, Joe Cole",
         synopsis: "A punk rock band becomes trapped in a secluded venue after finding a scene of violence. For what they saw, the band themselves become targets of violence from a gang of white-power skinheads, who want to eliminate all evidence of the crime.",
-        critics_consensus: "Green Room delivers unapologetic genre thrills with uncommon intelligence and powerfully acted élan.",
+        critics_consensus: "Green Room delivers unapologetic        genre thrills with uncommon intelligence and powerfully acted élan.",
         image_url: "https://cps-static.rovicorp.com/2/Open/A24_2075/Program/27052918/_derived_jpg_q90_310x470_m0/GreenRoom_PA1.jpg",
-        trailer: "https://www.youtube.com/watch?v=Q8XSARX3DQg" 
+        trailer: "https://www.youtube.com/watch?v=Q8XSARX3DQg" ,
+        genre: "horror"
             },
             {
         title: "A Most Violent Year",
@@ -492,7 +532,8 @@ array = [
         synopsis: "In 1981 New York, a fuel supplier (Oscar Isaac) tries to adhere to his own moral compass amid the rampant violence, corruption and decay that threaten his family and his business.",
         critics_consensus: "Gritty, gripping, and weighted with thought-provoking heft, A Most Violent Year represents another strong entry in writer-director J.C. Chandor's impressive filmography.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMjE4OTY4ODg3Ml5BMl5BanBnXkFtZTgwMTI1MTg1MzE@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=lZU7U3k3gHY" 
+        trailer: "https://www.youtube.com/watch?v=lZU7U3k3gHY" ,
+        genre: "crime, mystery, thriller"
             },
             {
         title: "Red Rocket",
@@ -504,7 +545,8 @@ array = [
         synopsis: "Mikey Saber -- charismatic con man and washed-up porn star -- plots his return to the big time from small-town Texas in this story of an American hustler and a hometown that barely tolerates him.",
         critics_consensus: "Led by Simon Rex's magnetic performance, Red Rocket is another vibrant, ground-level look at modern American life from director/co-writer Sean Baker.",
         image_url: "https://m.media-amazon.com/images/M/MV5BZjYyZWMyNjYtZjNlNC00NmNhLThjOTItYmViMGU5ZDU4YTM4XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
-        trailer: "https://www.youtube.com/watch?v=Wfndmy-6e28" 
+        trailer: "https://www.youtube.com/watch?v=Wfndmy-6e28" ,
+        genre: "comedy, drama"
             },
             {
         title: "Lean on Pete",
@@ -516,7 +558,8 @@ array = [
         synopsis: "Charley, a teen living with his single father, finds work caring for an aging racehorse named Lean on Pete. When he learns Pete is bound for slaughter, the two embark on an odyssey across the new American frontier in search of a place to call home.",
         critics_consensus: "Lean on Pete avoids mawkish melodrama, offering an empathetic yet clear-eyed portrayal of a young man at a crossroads that confirms Charley Plummer as a major talent.",
         image_url: "https://m.media-amazon.com/images/M/MV5BNWRiYzYxNTEtYmU5My00M2Q5LTk5Y2ItZjhkMTZmNjVhYmFhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=nzlazAyylw8" 
+        trailer: "https://www.youtube.com/watch?v=nzlazAyylw8",
+        genre: "drama"
             },
             {
         title: "The Souvenir",
@@ -528,10 +571,11 @@ array = [
         synopsis: "A shy film student falls into an intense relationship with a charismatic but untrustworthy older man, despite concern from her mother and friends.",
         critics_consensus: "Made by a filmmaker in command of her craft and a star perfectly matched with the material, The Souvenir is a uniquely impactful coming of age drama.",
         image_url: "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/The_Souvenir_%282019_poster%29.png/220px-The_Souvenir_%282019_poster%29.png",
-        trailer: "https://www.youtube.com/watch?v=t9Al2nC0vzY&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=t9Al2nC0vzY&ab_channel=A24",
+        genre: "romance, drama"
             },
             {
-        title:"Obvious Child" ,
+        title: "Obvious Child" ,
         year: 2014,
         runtime: 90,
         rotten_tomatoes_score: 90,
@@ -540,7 +584,8 @@ array = [
         synopsis: "An immature, newly unemployed comic (Jenny Slate) must navigate the murky waters of adulthood after her fling with a graduate student (Jake Lacy) results in an unplanned pregnancy.",
         critics_consensus: "An immature, newly unemployed comic (Jenny Slate) must navigate the murky waters of adulthood after her fling with a graduate student (Jake Lacy) results in an unplanned pregnancy.",
         image_url: "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Obvious_Child_poster.jpg/220px-Obvious_Child_poster.jpg",
-        trailer: "https://www.youtube.com/watch?v=r2GN3wdfqbA&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=r2GN3wdfqbA&ab_channel=A24",
+        genre: "comedy"
             },
             {
         title: "Hereditary",
@@ -552,7 +597,8 @@ array = [
         synopsis: "When the matriarch of the Graham family passes away, her daughter and grandchildren begin to unravel cryptic and increasingly terrifying secrets about their ancestry, trying to outrun the sinister fate they have inherited.",
         critics_consensus: "Hereditary uses its classic setup as the framework for a harrowing, uncommonly unsettling horror film whose cold touch lingers long beyond the closing credits.",
         image_url: "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/6267cf047f29e5b4e110665e91aa6d90_7e8294ed-26b3-4992-bcff-5d8550d15421_510x.jpg?v=1573587291",
-        trailer: "https://www.youtube.com/watch?v=V6wWKNij_1M&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=V6wWKNij_1M&ab_channel=A24",
+        genre: "horror"
             },
             {
         title: "The Green Knight",
@@ -564,7 +610,8 @@ array = [
         synopsis: "King Arthur's headstrong nephew embarks on a daring quest to confront the Green Knight, a mysterious giant who appears at Camelot. Risking his head, he sets off on an epic adventure to prove himself before his family and court.",
         critics_consensus: "The Green Knight honors and deconstructs its source material in equal measure, producing an absorbing adventure that casts a fantastical spell.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMjMxNTdiNWMtOWY0My00MjM4LTkwNzMtOGI0YThhN2Q4M2I4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=sS6ksY8xWCY&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=sS6ksY8xWCY&ab_channel=A24",
+        genre: "fantasy, adventure"
             },
             {
         title: "Zola",
@@ -576,7 +623,8 @@ array = [
         synopsis: "Zola, a Detroit waitress, is seduced into a weekend of stripping in Florida for some quick cash -- but the trip becomes a sleepless 48-hour odyssey involving a nefarious friend, her pimp and her idiot boyfriend.",
         critics_consensus: "Zola captures the stranger-than-fiction appeal of the viral Twitter thread that inspired it -- and announces director/co-writer Janicza Bravo as a filmmaker to watch.",
         image_url: "https://img.moviepostershop.com/zola-movie-poster-2021-1000780928.jpg",
-        trailer: "https://www.youtube.com/watch?v=fp2x4M5-lpM&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=fp2x4M5-lpM&ab_channel=A24",
+        genre: "comedy, mystery, thriller"
             },
             {
         title: "20th Century Women",
@@ -588,7 +636,8 @@ array = [
         synopsis: "In 1979 Santa Barbara, Calif., Dorothea Fields is a determined single mother in her mid-50s who is raising her adolescent son, Jamie, at a moment brimming with cultural change and rebellion. Dorothea enlists the help of two younger women -- Abbie, a free-spirited punk artist living as a boarder in the Fields' home and Julie, a savvy and provocative teenage neighbor -- to help with Jamie's upbringing.",
         critics_consensus: "20th Century Women offers Annette Bening a too-rare opportunity to shine in a leading role -- and marks another assured step forward for writer-director Mike Mills.",
         image_url: "https://movieposters2.com/images/1537974-b.jpg",
-        trailer: "https://www.youtube.com/watch?v=6JnFaltqnAY&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=6JnFaltqnAY&ab_channel=A24",
+        genre: "comedy, drama"
             },
             {
         title: "On the Rocks",
@@ -600,7 +649,8 @@ array = [
         synopsis: "The story of a young mother who reconnects with her larger-than-life playboy father on an adventure through New York. In this comedy about aging, marriage, and the tenuous bond between parents and grown children, New York author and married mother-of-two Laura has become suspicious that her career-driven husband may be having an affair with a coworker, a speculation encouraged by her caddish, bon vivant father.",
         critics_consensus: "On the Rocks isn't as potent as its top-shelf ingredients might suggest, but the end result still goes down easy -- and offers high proof of Bill Murray's finely aged charm.",
         image_url: "https://i.redd.it/7zbzi2wzp8k51.jpg",
-        trailer: "https://www.youtube.com/watch?v=Xn3sK4WiviA&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=Xn3sK4WiviA&ab_channel=A24",
+        genre: "comedy"
             },
             {
         title: "The Lobster",
@@ -612,7 +662,8 @@ array = [
         synopsis: "In a dystopian society, single people must enter into a romantic relationship within a strict time limit of 45 days or be transformed into an animal of their choice.",
         critics_consensus: "As strange as it is thrillingly ambitious, The Lobster is definitely an acquired taste -- but for viewers with the fortitude to crack through Yorgos Lanthimos' offbeat sensibilities, it should prove a savory cinematic treat.",
         image_url: "https://m.media-amazon.com/images/M/MV5BNDQ1NDE5NzQ1NF5BMl5BanBnXkFtZTgwNzA5OTM2NTE@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=LTNZmOJxuAc&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=LTNZmOJxuAc&ab_channel=A24",
+        genre: "fantasy, drama"
             },
             {
         title: "It Comes at Night",
@@ -624,7 +675,8 @@ array = [
         synopsis: "After a mysterious apocalypse leaves the world with few survivors, two families are forced to share a home in an uneasy alliance to keep the outside evil at bay -- only to learn that the true horror may come from within.",
         critics_consensus: "It Comes at Night makes lethally effective use of its bare-bones trappings while proving once again that what's left unseen can be just as horrifying as anything on the screen.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMjQ3MDA0ODA2N15BMl5BanBnXkFtZTgwNzg0NzgwMjI@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=6YOYHCBQn9g&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=6YOYHCBQn9g&ab_channel=A24",
+        genre: "horror"
             },
             {
         title: "Morris from America",
@@ -636,7 +688,8 @@ array = [
         synopsis: "Morris is a 13-year-old African-American who moves to Heidelberg with his dad, who coaches professional soccer. The film explores Morris's attempts to fit in with German kids. He falls for a girl at a youth club and she encourages him to open up a little and share his rapping.",
         critics_consensus: "Morris from America adds some novel narrative twists to its father-son story -- and gains added resonance thanks to a powerful performance from Craig Robinson.",
         image_url: "https://m.media-amazon.com/images/M/MV5BNDgyMzU5MTc2Ml5BMl5BanBnXkFtZTgwMTYwNzcxOTE@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=AKhFNgFdbDk&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=AKhFNgFdbDk&ab_channel=A24",
+        genre: "comedy, drama"
             },
             {
         title: "Lamb",
@@ -648,7 +701,8 @@ array = [
         synopsis: "In rural Iceland, a childless couple discover a strange and unnatural newborn in their sheep barn. They decide to raise her as their own, but sinister forces are determined to return the creature to the wilderness that birthed her.",
         critics_consensus: "Morris from America adds some novel narrative twists to its father-son story -- and gains added resonance thanks to a powerful performance from Craig Robinson.",
         image_url: "https://m.media-amazon.com/images/M/MV5BNzYzZTI2YmQtYmZlOS00NDI0LTg5MTktODJkNzc2Yzg0ZmMxXkEyXkFqcGdeQXVyNTQwOTY1MTg@._V1_FMjpg_UX1000_.jpg",
-        trailer: "https://www.youtube.com/watch?v=hnEwJKVWjFM&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=hnEwJKVWjFM&ab_channel=A24",
+        genre: "horror, fantasy"
             },
             {
         title: "Under the Skin",
@@ -660,7 +714,8 @@ array = [
         synopsis: "Disguising itself as a human female, an extraterrestrial drives around Scotland attempting to lure unsuspecting men into her van. Once there, she seduces and sends them into another dimension where they are nothing more than meat.",
         critics_consensus: "Its message may prove elusive for some, but with absorbing imagery and a mesmerizing performance from Scarlett Johansson, Under the Skin is a haunting viewing experience.",
         image_url: "https://m.media-amazon.com/images/I/81wj+kdR5nL._AC_SY679_.jpg",
-        trailer: "https://www.youtube.com/watch?v=J7bAZCOk0Sc&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=J7bAZCOk0Sc&ab_channel=A24",
+        genre: "sci-fi"
             },
             {
         title: "Waves",
@@ -672,7 +727,8 @@ array = [
         synopsis: "The epic emotional journey of a suburban African American family as they navigate love, forgiveness and coming together in the wake of a tragic loss.",
         critics_consensus: "An up-close look at one family's emotional ups and downs, Waves captures complicated dynamics with tenderness and grace.",
         image_url: "https://cdn.shopify.com/s/files/1/0747/3829/products/mL3798_1024x1024.jpg?v=1572527769",
-        trailer: "https://www.youtube.com/watch?v=V5z3cr8AB5g&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=V5z3cr8AB5g&ab_channel=A24",
+        genre: "drama"
             },
             {
         title: "While We're Young",
@@ -684,7 +740,8 @@ array = [
         synopsis: "Middle-aged filmmaker Josh Srebnick (Ben Stiller) and his wife, Cornelia (Naomi Watts), are happily married, but stuck in a rut. So, when free-spirited couple Jamie (Adam Driver) and Darby (Amanda Seyfried) enter their lives, it's like a breath of fresh air -- especially for Josh, who pines for a youth he wishes he had. Soon, Josh and Cornelia are ditching friends their own age to hang out with the hipsters -- but whether the friendship can endure despite a 20-year age gap remains to be seen.",
         critics_consensus: "Poignant and piercingly honest, While We're Young finds writer-director Noah Baumbach delivering some of his funniest lines through some of his most relatable characters.",
         image_url: "https://media.vanityfair.com/photos/54da7bd98a2fdf64645fdd63/master/w_1600%2Cc_limit/while-were-young-poster.jpg",
-        trailer: "https://www.youtube.com/watch?v=lNEKFG0eAKE" 
+        trailer: "https://www.youtube.com/watch?v=lNEKFG0eAKE" ,
+        genre: "comedy, drama"
             },
             {
         title: "Supersonic",
@@ -696,7 +753,8 @@ array = [
         synopsis: "A revealing look at the meteoric rise of seminal 1990s rock band Oasis, weaving never-before-seen concert footage with candid interviews and a firsthand account of the backstage sibling rivalry that threatened to destroy the band.",
         critics_consensus: "Oasis: Supersonic foregoes a comprehensive approach to its multi-platinum subjects in favor of an appreciative -- and stirring -- look at their heady early years.",
         image_url: "https://i.ebayimg.com/images/g/2VwAAOSwmLlX84cR/s-l400.jpg",
-        trailer: "https://www.youtube.com/watch?v=7wZJqUrJyDs&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=7wZJqUrJyDs&ab_channel=A24",
+        genre: "documentary, music"
             },
             {
         title: "Midsommar",
@@ -708,7 +766,8 @@ array = [
         synopsis: "A couple travel to Sweden to visit their friend's rural hometown for its fabled midsummer festival, but what begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.",
         critics_consensus: "Ambitious, impressively crafted, and above all unsettling, Midsommar further proves writer-director Ari Aster is a horror auteur to be reckoned with.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=1Vnghdsjmd0&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=1Vnghdsjmd0&ab_channel=A24",
+        genre: "horror"
             },
             {
         title: "The Hole in the Ground",
@@ -720,7 +779,8 @@ array = [
         synopsis: "One night, Sarah's young son disappears into the woods behind their rural home. When he returns, he looks the same, but his behavior grows increasingly disturbing. Sarah begins to believe that the boy who returned may not be her son at all.",
         critics_consensus: "The Hole in the Ground artfully exploits parental fears with a well-made horror outing that makes up in sheer effectiveness what it lacks in originality.",
         image_url: "https://strasbourgfestival.com/wp-content/uploads/2019/08/The-Hole-in-the-Ground-Poster.png",
-        trailer: "https://www.youtube.com/watch?v=BxY2vnJiByw&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=BxY2vnJiByw&ab_channel=A24",
+        genre: "horror"
             },
             {
         title: "High Life",
@@ -732,7 +792,8 @@ array = [
         synopsis: "Monte and his baby daughter are the last survivors of a damned and dangerous mission to the outer reaches of the solar system. They must now rely on each other to survive as they hurtle toward the oblivion of a black hole.",
         critics_consensus: "High Life is as visually arresting as it is challenging, confounding, and ultimately rewarding - which is to say it's everything film fans expect from director Claire Denis.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMDNjN2NjYmItMjAyZi00NmNkLWJmYTQtYzcwZGRiM2RmNGNlXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=AtOwfo1ypOw&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=AtOwfo1ypOw&ab_channel=A24",
+        genre: "adventure"
             },
             {
         title: "The Lovers",
@@ -744,7 +805,8 @@ array = [
         synopsis: "A man and his wife, each embroiled in an extramarital affair, are sent reeling when they suddenly fall for the least likely person imaginable -- each other.",
         critics_consensus: "With appealing leads and a narrative approach that offers a fresh perspective on familiar themes, The Lovers tells a quietly absorbing story with unexpected emotional resonance.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/71nQDGPaK3L._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=nk-T71VhP8I&ab_channel=A24"
+        trailer: "https://www.youtube.com/watch?v=nk-T71VhP8I&ab_channel=A24",
+        genre: "comedy, romance"
             },
             {
         title: "The Killing of a Sacred Deer",
@@ -756,7 +818,8 @@ array = [
         synopsis: "Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways. Soon, the full scope of Martin's intent becomes menacingly clear when he confronts Steven with a long-forgotten transgression that will shatter his domestic bliss forever.",
         critics_consensus: "The Killing of a Sacred Deer continues director Yorgos Lanthimos' stubbornly idiosyncratic streak -- and demonstrates again that his is a talent not to be ignored.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMjU4NDcwOTA2NF5BMl5BanBnXkFtZTgwMjE2OTg4MzI@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=CQFdGfwChtw"
+        trailer: "https://www.youtube.com/watch?v=CQFdGfwChtw",
+        genre: "horror"
             },
             {
         title: "Mid90s",
@@ -768,7 +831,8 @@ array = [
         synopsis: "In 1990s Los Angeles, a 13-year-old spends his summer navigating between a troubled home life and a crew of new friends he meets at a skate shop.",
         critics_consensus: "Mid90s tells a clear-eyed yet nostalgic coming-of-age tale that might mark the start of an auspicious new career for debuting writer-director Jonah Hill.",
         image_url: "https://m.media-amazon.com/images/I/71bFo5PDpSL._AC_SY741_.jpg",
-        trailer: "https://www.youtube.com/watch?v=w9Rx6-GaSIE"
+        trailer: "https://www.youtube.com/watch?v=w9Rx6-GaSIE",
+        genre: "comedy, drama"
             },
             {
         title: "The Monster",
@@ -780,7 +844,8 @@ array = [
         synopsis: "A divorced mother and her headstrong daughter must make an emergency late-night road trip to see the girl's father. As they drive through deserted country roads on a stormy night, they suddenly have a startling collision that leaves them shaken but not seriously hurt. Their car, however, is dead, and as they try in vain to get help, they come to realize they are not alone -- a terrifying evil is lurking in the woods, intent on never letting them leave.",
         critics_consensus: "The Monster uses its effectively simple setup and a powerful lead performance from Zoe Kazan to deliver a traditional yet subtly subversive -- and thoroughly entertaining -- horror story.",
         image_url: "https://m.media-amazon.com/images/M/MV5BOTI2MjY3MDkzOV5BMl5BanBnXkFtZTgwODQ4NTQ0MDI@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=tbyCUdzR87Y"
+        trailer: "https://www.youtube.com/watch?v=tbyCUdzR87Y",
+        genre: "horror, fantasy"
             },
             {
         title: "American Honey",
@@ -792,7 +857,8 @@ array = [
         synopsis: "Star (Sasha Lane), an adolescent girl from a troubled home, runs away with a traveling sales crew that drives across the American Midwest selling subscriptions door-to-door. Finding her feet in this gang of teenagers, one of whom is Jake (Shia LaBeouf), she soon gets into the group's lifestyle of hard-partying nights, law-bending days and young love.",
         critics_consensus: "American Honey offers a refreshingly unconventional take on the coming-of-age drama whose narrative risks add up to a rewarding experience even if they don't all pay off.",
         image_url: "https://musicart.xboxlive.com/7/6a713500-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
-        trailer: "https://www.youtube.com/watch?v=y1SpWZm1PLc"
+        trailer: "https://www.youtube.com/watch?v=y1SpWZm1PLc",
+        genre: "comedy, drama"
             },
             {
         title: "Ginger & Rosa",
@@ -804,7 +870,8 @@ array = [
         synopsis: "In 1962 London, the lifelong friendship between two teenagers (Elle Fanning, Alice Englert) dissolves after one seduces the other's father.",
         critics_consensus: "Elle Fanning gives a terrific performance in this powerful coming-of-age tale about a pair of teenage girls whose friendship is unnerved by the threat of nuclear war.",
         image_url: "https://www.amazon.com/Ginger-Rosa-DVD-Elle-Fanning/dp/B00EGI7UPK",
-        trailer: "https://www.youtube.com/watch?v=13oRYH0YpSA"
+        trailer: "https://www.youtube.com/watch?v=13oRYH0YpSA",
+        genre: "drama, lgbtq+"
             },
             {
         title: "Skin",
@@ -816,7 +883,8 @@ array = [
         synopsis: "A young man makes the dangerous choice to leave the white supremacist gang he joined as a teenager. With his former friends against him, he is determined to create a new life for himself -- if he can make it out alive.",
         critics_consensus: "Skin could stand to go a bit deeper below its surface, but a worthy story and a committed performance from Jamie Bell make this timely drama well worth a watch.",
         image_url: "https://preview.redd.it/7n3kp4uas3431.jpg?auto=webp&s=c93b50b46c0659ef4a3de64a29817d7c48497f80",
-        trailer: "https://www.youtube.com/watch?v=DkCVrWC0ZP4"
+        trailer: "https://www.youtube.com/watch?v=DkCVrWC0ZP4",
+        genre: "biography, drama"
             },
             {
         title: "Never Goin Back",
@@ -828,7 +896,8 @@ array = [
         synopsis: "Angela and Jessie are best friends intent on taking a wild beach trip, but when their roommate loses all of their money in a drug scam, the girls -- blissfully stoned -- go to increasingly daring and absurd lengths to get it back.",
         critics_consensus: "Never Goin' Back benefits from the chemistry between leads Maia Mitchell and Camila Morrone, whose easy rapport lifts a coming-of-age story with uncommon insight.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMTg4Mjg5NjQwMF5BMl5BanBnXkFtZTgwOTc1MDg0NTM@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=Y1BpTDSgLEE"
+        trailer: "https://www.youtube.com/watch?v=Y1BpTDSgLEE",
+        genre: "comedy"
             },
             {
         title: "Into the Forest",
@@ -840,7 +909,8 @@ array = [
         synopsis: "In the wilds of the Pacific Northwest, two sisters must fight for survival after an apocalyptic blackout leaves them without gas, water, electricity or cellphones.",
         critics_consensus: "Into the Forest grounds its familiar apocalyptic framework with a relatable look at the bond between two sisters, compellingly brought to life by Elliot Page and Evan Rachel Wood.",
         image_url: "https://d2snwnmzyr8jue.cloudfront.net/atf_a24intotheforest_270.jpeg",
-        trailer: "https://www.youtube.com/watch?v=_TRSvK-Omwc"
+        trailer: "https://www.youtube.com/watch?v=_TRSvK-Omwc",
+        genre: "drama"
             },
             {
         title: "Men",
@@ -852,7 +922,8 @@ array = [
         synopsis: "In the aftermath of a personal tragedy, Harper (Jessie Buckley) retreats alone to the beautiful English countryside, hoping to have found a place to heal. But someone or something from the surrounding woods appears to be stalking her. What begins as simmering dread becomes a fully-formed nightmare, inhabited by her darkest memories and fears in visionary filmmaker Alex Garland's (Ex Machina, Annihilation) feverish, shape-shifting new horror film.",
         critics_consensus: "If its narrative and thematic reach sometimes exceeds its grasp, magnetic performances from a stellar cast help Men make the most of its horror provocations.", 
         image_url: "https://m.media-amazon.com/images/M/MV5BZGQ2ZDNiMjgtMTNhNS00MjUxLWFkYTMtYTI1OTE0MmQ2MmJkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
-        trailer: "https://www.youtube.com/watch?v=pt81CJcWZy8"
+        trailer: "https://www.youtube.com/watch?v=pt81CJcWZy8",
+        genre: "horror, drama"
             },
             {
         title: "The Exception",
@@ -864,7 +935,8 @@ array = [
         synopsis: "German soldier Stefan Brandt goes on a mission to investigate exiled German Monarch Kaiser Wilhelm II. The Kaiser lives in a secluded mansion in the Netherlands, and as Germany is taking over Holland, the country's authorities are concerned that Dutch spies may be watching the Kaiser. As Brandt begins to infiltrate the Kaiser's life in search of clues, he finds himself drawn into an unexpected and passionate romance with Mieke, one of the Kaiser's maids.",
         critics_consensus: "The Exception (The Kaiser's Last Kiss) elegantly blends well-dressed period romance and war drama into a solidly crafted story further elevated by Christopher Plummer's excellent work and the efforts of a talented supporting cast.",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/54e67f8b2524b232568998744cd28cb3621b5a54bfc566d973862ca05a5a3174._RI_V_TTW_.jpg",
-        trailer: "https://www.youtube.com/watch?v=bD7bKSPFg_c"
+        trailer: "https://www.youtube.com/watch?v=bD7bKSPFg_c",
+        genre: "comedy, drama"
             },
             {
         title: "The Death of Dick Long",
@@ -876,7 +948,8 @@ array = [
         synopsis: "In small-town Alabama, Zeke and Earl scramble to cover up the unlikely and illegal events that led to their friend's death while trying to dodge their families, the cops and one horrified medical examiner.",
         critics_consensus: "The Death of Dick Long mixes dark humor with provocative ideas to produce a sharp blend that's admittedly uneven but uniquely satisfying.",
         image_url: "https://m.media-amazon.com/images/I/51MgYVqtkML._AC_.jpg",
-        trailer: "https://www.youtube.com/watch?v=dGBe8xsWGlo"
+        trailer: "https://www.youtube.com/watch?v=dGBe8xsWGlo",
+        genre: "war, romance"
             },
             {
         title: "Enemy",
@@ -888,7 +961,8 @@ array = [
         synopsis: "A mild-mannered college professor (Jake Gyllenhaal) discovers a look-alike actor and delves into the other man's private affairs.",
         critics_consensus: "Thanks to a strong performance from Jake Gyllenhaal and smart direction from Denis Villeneuve, Enemy hits the mark as a tense, uncommonly adventurous thriller.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMTQ2NzA5NjE4N15BMl5BanBnXkFtZTgwMjQ4NzMxMTE@._V1_.jpg",
-        trailer: "https://www.youtube.com/watch?v=FJuaAWrgoUY"
+        trailer: "https://www.youtube.com/watch?v=FJuaAWrgoUY",
+        genre: "mystery, thriller"
             },
             {
         title: "The Elephant Queen",
@@ -900,7 +974,8 @@ array = [
         synopsis: "A journey of family, courage, and coming home; joining Athena, the majestic matriarch, as she leads her elephant herd across an unforgiving African landscape filled with vibrant wildlife.",
         critics_consensus: "Informative, compassionate, and beautifully filmed, The Elephant Queen should satisfy nature documentary lovers of all ages.",
         image_url: "https://static.metacritic.com/images/products/movies/6/b1ac1d3d54162863d9849c7eebbdbede.jpg",
-        trailer: "https://www.youtube.com/watch?v=e8TsCQmngFk"
+        trailer: "https://www.youtube.com/watch?v=e8TsCQmngFk",
+        genre: "documentary, adventure"
             },
             {
         title: "Share",
@@ -912,8 +987,9 @@ array = [
         synopsis: "A disturbing video leaked from a local high school throws a Long Island community into chaos and the national spotlight as it tries to unravel the story behind it.",
         critics_consensus: "Grim yet compelling, Share avoids rote didacticism thanks to sensitive direction and committed central performances.",
         image_url: "https://pics.filmaffinity.com/Share-701889997-large.jpg",
-        trailer: "https://www.youtube.com/watch?v=FaiaD8wRNV8"
-            },
+        trailer: "https://www.youtube.com/watch?v=FaiaD8wRNV8",
+        genre: "drama"            
+},
             {
         title: "The Ballad of Lefty Brown",
         year: 2017,
@@ -924,8 +1000,9 @@ array = [
         synopsis: "A merciless cowboy sets out on a dangerous journey across the frontier, determined to do whatever it takes to avenge his longtime partner's brutal murder.",
         critics_consensus: "No consensus yet.",
         image_url: "https://m.media-amazon.com/images/I/81iJTzdiLiL._SL1500_.jpg",
-        trailer: "https://www.youtube.com/watch?v=Sv2khM97ylU"
-            },
+        trailer: "https://www.youtube.com/watch?v=Sv2khM97ylU",
+        genre: "western"   
+         },
             {
         title: "The Children Act",
         year: 2017,
@@ -936,7 +1013,8 @@ array = [
         synopsis: "Judge Fiona May must race against the clock to determine the fate of a teenage boy in need of a lifesaving blood transfusion, stretching her life and her fractured marriage to the breaking point.",
         critics_consensus: "The Children Act showcases yet another powerful performance from Emma Thompson, who elevates this undeniably flawed picture into an affecting adult drama.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91ab0HRiU6L._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=kKQkUcJioxU"
+        trailer: "https://www.youtube.com/watch?v=kKQkUcJioxU",
+        genre: "drama"
             },
             {
         title: "The Blackcoat's Daughter",
@@ -948,7 +1026,8 @@ array = [
         synopsis: "During the dead of winter, a troubled young woman (Emma Roberts) embarks on a mysterious journey to an isolated prep school where two stranded students (Kiernan Shipka, Lucy Boynton) face a sinister threat from an unseen evil force.",
         critics_consensus: "Slow-building and atmospheric, The Blackcoat's Daughter resists girls-in-peril clichés in a supernatural thriller that serves as a strong calling card for debuting writer-director Oz Perkins.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/81KQ4x3wnxL._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=pRc_-iK3RVE"
+        trailer: "https://www.youtube.com/watch?v=pRc_-iK3RVE",
+        genre: "horror"
             },
             {
         title: "Swiss Army Man",
@@ -960,7 +1039,8 @@ array = [
         synopsis: "Being stranded on a deserted island leaves young Hank (Paul Dano) bored, lonely and without hope. As a rope hangs around his neck, Hank prepares to end it all, until he suddenly spots a man (Daniel Radcliffe) laying by the shore. Unfortunately, he is dead and quite flatulent. Using the gassy body to his advantage, Hank miraculously makes it back to the mainland. However, he now finds himself lost in the wilderness, and dragging the talking corpse named Manny along for the adventure.",
         critics_consensus: "Disarmingly odd and thoroughly well-acted, Swiss Army Man offers adventurous viewers an experience as rewarding as it is impossible to categorize.",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/191586782bb69472931e6cb5927728287b824eda6d1926c0a704604c2d39ef53._RI_V_TTW_.jpg",
-        trailer: "https://www.youtube.com/watch?v=yrK1f4TsQfM"
+        trailer: "https://www.youtube.com/watch?v=yrK1f4TsQfM",
+        genre: "comedy, adventure"
             },
             {
         title: "Low Tide",
@@ -972,7 +1052,8 @@ array = [
         synopsis: "When teenager Alan and his younger brother find a bag of gold coins in a dead man's island home, they try to hide it from their friends -- but one of them, suspicious and violently unpredictable, is willing to do anything to get the money.",
         critics_consensus: "No consensus yet.",
         image_url: "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/10/w1280/iEZrBPoWu4QYgOh594uCxDCEQDx.jpg",
-        trailer: "https://www.youtube.com/watch?v=I2b5dmkDUa4"
+        trailer: "https://www.youtube.com/watch?v=I2b5dmkDUa4",
+        genre: "drama"
             },
             {
         title: "The Kill Team",
@@ -984,7 +1065,8 @@ array = [
         synopsis: "When a young U.S. soldier in Afghanistan witnesses other recruits killing civilians under the direction of a sadistic sergeant, he begins to fear that the men he's serving with might be the ones to kill him.",
         critics_consensus: "Flawed yet viscerally effective, The Kill Team interrogates battlefield morality with a hard-hitting intensity further amplified by a talented cast.",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6f90e8b9a9bbced0e3c98c32dcdbadbb995b9b9fdce2191a3803c8bb756a70c7._RI_V_TTW_.jpg",
-        trailer: "https://www.youtube.com/watch?v=0mab6h2sE5g"
+        trailer: "https://www.youtube.com/watch?v=0mab6h2sE5g",
+        genre: "war, drama"
             },
             {
         title: "Free Fire",
@@ -994,9 +1076,10 @@ array = [
         director: "Ben Wheatley",
         starring: "Sharlto Copley, Armie Hammer, Brie Larson, Cillian Murphy",
         synopsis: "When a black-market arms deal goes outrageously wrong, Justine finds herself caught in the crossfire, forced to navigate through a warehouse full of trigger-happy madmen who are all hanging on for dear life.",
-        critics_consensus: "Free Fire aims squarely for genre thrills, and hits its target repeatedly and with great gusto -- albeit with something less than pure cinematic grace.",
+        critics_consensus: "Free Fire aims squarely for         genre thrills, and hits its target repeatedly and with great gusto -- albeit with something less than pure cinematic grace.",
         image_url: "https://m.media-amazon.com/images/I/910oURvHQAL._SL1500_.jpg",
-        trailer: "https://www.youtube.com/watch?v=oDD3I0uOlqY"
+        trailer: "https://www.youtube.com/watch?v=oDD3I0uOlqY",
+        genre: "action, comedy"
             },
             {
         title: "Remember",
@@ -1008,7 +1091,8 @@ array = [
         synopsis: "With help from a fellow Holocaust survivor (Martin Landau), a widower (Christopher Plummer) who struggles with memory loss embarks on a cross-country odyssey to find the former Nazi responsible for the deaths of their family members.",
         critics_consensus: "Remember risks wandering into exploitative territory, but it's bolstered by some of Egoyan's best latter-day directing and a typically stellar performance from Christopher Plummer.",
         image_url: "https://m.media-amazon.com/images/I/91xyLtJ5M-L._SL1500_.jpg",
-        trailer: "https://www.youtube.com/watch?v=vFxXCoprNqc"
+        trailer: "https://www.youtube.com/watch?v=vFxXCoprNqc",
+        genre: "drama"
             },
             {
         title: "Climax",
@@ -1020,7 +1104,8 @@ array = [
         synopsis: "When members of a dance troupe are lured to an empty school, drug-laced sangria causes their jubilant rehearsal to descend into a dark and explosive nightmare as they try to survive the night -- and find out who's responsible -- before it's too late.",
         critics_consensus: "Challenging and rewarding in equal measure, Climax captures writer-director Gaspar Noé working near his technically brilliant and visually distinctive peak.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91XJ7vxBA2L._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=gNp0jlfbgqM"
+        trailer: "https://www.youtube.com/watch?v=gNp0jlfbgqM",
+        genre: "drama, music"
             },
             {
         title: "Spring Breakers",
@@ -1032,7 +1117,8 @@ array = [
         synopsis: "College students Candy (Vanessa Hudgens), Faith (Selena Gomez), Brit (Ashley Benson) and Cotty (Rachel Korine) are short of the cash they need for a spring-break trip, so they rob a diner and head down to Florida. However, the police soon break up the party and arrest them. The curvaceous quartet are unexpectedly bailed out by a drug dealer and aspiring rap artist named Alien (James Franco). Soon after, three of the four gal pals decide to join Alien in a life of crime.",
         critics_consensus: "Spring Breakers blends stinging social commentary with bikini cheesecake and a bravura James Franco performance.",
         image_url: "https://m.media-amazon.com/images/I/51yY4eORYdL._AC_.jpg",
-        trailer: "https://www.youtube.com/watch?v=imDML4om8z8"
+        trailer: "https://www.youtube.com/watch?v=imDML4om8z8",
+        genre: "comedy"
             },
             {
         title: "The Rover",
@@ -1044,7 +1130,8 @@ array = [
         synopsis: "In the near future, mankind's greed and excesses have pushed civilization to the breaking point. Society is in decline, and the rule of law has disintegrated. Hardened drifter Eric (Guy Pearce) wanders across this dangerous and desolate landscape. When thieves steal Eric's car -- and only remaining possession -- they leave behind Rey (Robert Pattinson), a wounded comrade. Eric forces Rey to help him hunt down the gang in an unrelenting quest to take back the one thing that matters to him.",
         critics_consensus: "Fueled by engaging performances from Guy Pearce and Robert Pattinson, the tension-filled The Rover overcomes its narrative faults through sheer watchability.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/81V0Fm-dhFL._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=ChM2icbWo9w"
+        trailer: "https://www.youtube.com/watch?v=ChM2icbWo9w",
+        genre: "drama"
             },
             {
         title: "Laggies",
@@ -1056,7 +1143,8 @@ array = [
         synopsis: "When 28-year-old Megan (Keira Knightley) attends her 10-year high-school reunion, she realizes that very little in her life has changed. An unexpected marriage proposal from her boyfriend sparks a panic in Megan, causing her to wander off into the night. She meets 16-year-old Annika (Chloë Grace Moretz) who is with friends and proceeds to get drunk with the teens. Deciding she needs a break from her unfulfilling life, she tells her boyfriend she's going to a seminar but hangs with Annika.",
         critics_consensus: "Laggies may not do as much with its ideas as it could, but it's buoyed by a winsome performance from Kiera Knightley, as well as Lynn Shelton's empathetic direction.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91K6tpYXQBL._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=xep7s36qZL0"
+        trailer: "https://www.youtube.com/watch?v=xep7s36qZL0",
+        genre: "romance"
             },
             {
         title: "Son of a Gun",
@@ -1066,9 +1154,10 @@ array = [
         director: "Julius Avery",
         starring: "Brenton Thwaites, Ewan McGregor, Alicia Vikander, Matt Nable",
         synopsis: "JR, a teenage criminal, is locked up for a minor crime and forced to adapt to the harsh realities of prison life. Brendan Lynch, one of Australia's most notorious criminals, offers JR protection, but it comes with a price.",
-        critics_consensus: "Gritty, stylish, and smart, Son of a Gun serves up plenty of genre thrills while offering a refreshing change of pace for Ewan McGregor.",
+        critics_consensus: "Gritty, stylish, and smart, Son of a Gun serves up plenty of        genre thrills while offering a refreshing change of pace for Ewan McGregor.",
         image_url: "https://m.media-amazon.com/images/I/81ZDHauyJgL._SL1500_.jpg",
-        trailer: "https://www.youtube.com/watch?v=_9Bf9JkRwzU"
+        trailer: "https://www.youtube.com/watch?v=_9Bf9JkRwzU",
+        genre: "drama, crime"
             },
             {
         title: "The Last Movie Star",
@@ -1080,7 +1169,8 @@ array = [
         synopsis: "An aging screen icon gets lured into accepting an award at a rinky-dink film festival in Nashville, Tenn., sending him on a hilarious fish-out-of-water adventure and an unexpectedly poignant journey into his past.",
         critics_consensus: "The Last Movie Star has a few poignant moments thanks to Burt Reynolds and Ariel Winter, but their performances are stranded in a middling drama unworthy of their efforts.",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/fe1997e64b377f416a70314617c01bb0e0d9f53e7a2d4aa8396db86c4ecb607b._RI_V_TTW_.jpg",
-        trailer: "https://www.youtube.com/watch?v=S_lN0-gtWF4"
+        trailer: "https://www.youtube.com/watch?v=S_lN0-gtWF4",
+        genre: "comedy, drama"
             },
             {
         title: "The Bling Ring",
@@ -1092,7 +1182,8 @@ array = [
         synopsis: "A teenager (Israel Broussard) and his gang of fame-obsessed youths (Katie Chang, Taissa Farmiga) use the Internet to track the whereabouts of celebrities, then rob their homes.",
         critics_consensus: "While it's certainly timely and beautifully filmed, The Bling Ring suffers from director Sofia Coppola's failure to delve beneath the surface of its shallow protagonists' real-life crimes.",
         image_url: "https://m.media-amazon.com/images/I/51o3jMiQzsL._SX385_.jpg",
-        trailer: "https://www.youtube.com/watch?v=Q4LzhgExvrc"
+        trailer: "https://www.youtube.com/watch?v=Q4LzhgExvrc",
+        genre: "comedy"
             },
             {
         title: "Native Son",
@@ -1104,7 +1195,8 @@ array = [
         synopsis: "A young African-American living in Chicago enters into a seductive new world of money and power after becoming a chauffeur for an affluent businessman.",
         critics_consensus: "Native Son's struggles with its problematic source material are uneven but overall compelling, thanks largely to Ashton Sanders' poised work in the central role.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/71b1Nacb-EL._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=ghfwH5jWTbc"
+        trailer: "https://www.youtube.com/watch?v=ghfwH5jWTbc",
+        genre: "drama"
             },
             {
         title: "Woman Walks Ahead",
@@ -1116,7 +1208,8 @@ array = [
         synopsis: "A headstrong New York painter embarks on a dangerous journey to meet Sitting Bull but must face off with an Army officer intent on war with the Native Americans.",
         critics_consensus: "Woman Walks Ahead gets some extra mileage out of watchable work from Jessica Chastain and Michael Greyeyes, but uneven pacing and two-dimensional characters undermine their efforts.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91W5s1juNXL._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=qHR0AEDMg0M"
+        trailer: "https://www.youtube.com/watch?v=qHR0AEDMg0M",
+        genre: "western"
             },
             {
         title: "Under the Silver Lake",
@@ -1128,7 +1221,8 @@ array = [
         synopsis: "Sam is a disenchanted 33-year-old who discovers a mysterious woman, Sarah, frolicking in his apartment's swimming pool. When she vanishes, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal, and conspiracy in the City of Angels.",
         critics_consensus: "Under the Silver Lake hits its stride slightly more often than it stumbles, but it's hard not to admire - or be drawn in by - writer-director David Robert Mitchell's ambition.",
         Image_url: "https://m.media-amazon.com/images/I/817C9ClVvDL._SL1500_.jpg",
-        trailer: "https://www.youtube.com/watch?v=mwgUesU1pz4" 
+        trailer: "https://www.youtube.com/watch?v=mwgUesU1pz4" ,
+        genre: "comedy"
             },
             {
         title: "Trespass Against Us",
@@ -1140,7 +1234,8 @@ array = [
         synopsis: "After an elaborate heist goes south, reluctant criminal Chad (Michael Fassbender) must find a way to escape from the clutches of his fierce outlaw father (Brendan Gleeson) and the encroaching police.",
         critics_consensus: "Trespass Against Us benefits from Michael Fassbender and Brendan Gleeson's typically strong performances, even when they aren't quite enough to balance the story's narrative drift and awkward tonal shifts.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91d3dFnDUUL._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=vnq8jZejw-s" 
+        trailer: "https://www.youtube.com/watch?v=vnq8jZejw-s" ,
+        genre: "crime, mystery, thriller"
             },
             {
         title: "Slice",
@@ -1152,7 +1247,8 @@ array = [
         synopsis: "In a spooky small town, when a slew of pizza delivery boys are slain on the job, two daring survivors set out to catch the culprits behind the cryptic crime spree.",
         critics_consensus: "No consensus yet.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91jmCpt4fKL._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=i5LUKX97bNA" 
+        trailer: "https://www.youtube.com/watch?v=i5LUKX97bNA" ,
+        genre: "horror, comedy"
             },
             {
         title: "False Positive",
@@ -1164,7 +1260,8 @@ array = [
         synopsis: "After months of trying and failing to get pregnant, Lucy (Ilana Glazer) and Adrian (Justin Theroux) finally find their dream fertility doctor in the illustrious Dr. Hindle (Pierce Brosnan). But after becoming pregnant with a healthy baby girl, Lucy begins to notice something sinister through Hindle's gleaming charm, and she sets out to uncover the unsettling truth about him, and her own 'birth story.' As if getting pregnant weren't complicated enough…",
         critics_consensus: "Its classic horror aims exceed its blood-slicked grasp, but False Positive works its way sneakily under the skin.",
         image_url: "https://m.media-amazon.com/images/M/MV5BN2M2N2Q5Y2QtYmI5OS00OWU3LTlkNDgtNWY4YTAwNDFjZmUyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
-        trailer: "https://www.youtube.com/watch?v=HL2Q3rHvxew"
+        trailer: "https://www.youtube.com/watch?v=HL2Q3rHvxew",
+        genre: "horror, mystery, thriller"
             },
             {
         title: "How to Talk to Girls at Parties",
@@ -1176,7 +1273,8 @@ array = [
         synopsis: "Worlds collide when Enn, a shy teenager in 1970s London, meets the beautiful and rebellious Zan at a party. They set in motion the ultimate showdown between their rivaling worlds and test the limits of how far they will go for true love.",
         critics_consensus: "How to Talk to Girls at Parties has energy and ambition, but is ultimately too unfocused to do much with either -- or develop its themes into a cohesive whole.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/A1S21kuoNEL._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=nWzHaRM8jeo"
+        trailer: "https://www.youtube.com/watch?v=nWzHaRM8jeo",
+        genre: "romance"
             },
             {
         title: "Tusk",
@@ -1188,7 +1286,8 @@ array = [
         synopsis: "A U.S. podcaster (Justin Long) ventures into the Canadian wilderness to interview an old man (Michael Parks) who has an extraordinary past, and the American learns the man has a dark secret involving a walrus.",
         critics_consensus: "Tusk is pleasantly ridiculous and charmingly self-deprecating, but that isn't enough to compensate for its thin, overstretched story.",
         image_url: "https://m.media-amazon.com/images/I/51Mb9N0eWgL.jpg",
-        trailer: "https://www.youtube.com/watch?v=BCQJnOn0ru0" 
+        trailer: "https://www.youtube.com/watch?v=BCQJnOn0ru0",
+        genre: "horror"
             },
             {
         title: "Life After Beth",
@@ -1200,7 +1299,8 @@ array = [
         synopsis: "A guy (Dane DeHaan) discovers that his girlfriend (Aubrey Plaza) has returned from the dead, but his joy turns to horror as she slowly undergoes a horrible transformation.",
         critics_consensus: "In spite of Aubrey Plaza's committed performance, Life After Beth remains a sketch-worthy idea that's been uncomfortably stretched to feature length.",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4fa57f41188ac7101dd996575f420fa0dc3ede92efe85c224ce93674fc19d14a._RI_V_TTW_.jpg",
-        trailer: "https://www.youtube.com/watch?v=pVtaRAAWJss" 
+        trailer: "https://www.youtube.com/watch?v=pVtaRAAWJss",
+        genre: "comedy, horror"
             },
             {
         title: "Hot Summer Nights",
@@ -1212,7 +1312,8 @@ array = [
         synopsis: "An awkward teenager gets in over his head dealing drugs while falling for his business partner's enigmatic sister during one scorching summer in Cape Cod, Mass.",
         critics_consensus: "Hot Summer Nights is easy on the eyes and clearly indebted to some great films, but its strengths -- including a charismatic young cast -- are often outweighed by its uninspired story.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/A1AliwDHqLL._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=M2nWr1jwPK4" 
+        trailer: "https://www.youtube.com/watch?v=M2nWr1jwPK4",
+        genre: "romance, drama"
             },
             {
         title: "Backstabbing for Beginners",
@@ -1224,7 +1325,8 @@ array = [
         synopsis: "Michael, a young United Nations employee, travels to Iraq with his mentor, who wants to show him how successful the UN's Oil-for-Food Program has been. When Michael gets a deeper look at the organization, he unveils a corruption conspiracy in which officials -- both inside and outside of the UN -- are skimming billions off the top of the aid meant for the Iraqi people.",
         critics_consensus: "No consensus yet.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/815U3MNiHHL._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=P3GdyaVQ20I" 
+        trailer: "https://www.youtube.com/watch?v=P3GdyaVQ20I",
+        genre: "drama"
             },
             {
         title: "Equals",
@@ -1236,7 +1338,8 @@ array = [
         synopsis:  "Nia (Kristen Stewart) and Silas work together in a futuristic society known as the Collective. A seemingly utopian world, the Collective has ended crime and violence by genetically eliminating all human emotions. Despite this, Nia and Silas develop a growing attraction that leads to a forbidden and passionate romance. As suspicion begins to mount among their superiors, the couple must choose between going back to the safety of their lives or risking it all to try and pull off a daring escape.",
         critics_consensus: "Equals is a treat for the eyes, but its futuristic aesthetic isn't enough to make up for its plodding pace and aimlessly derivative story.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/81h-EqcHUrL._RI_.jpg",
-        trailer: "​​https://www.youtube.com/watch?v=6GiU2SSG624" 
+        trailer: "https://www.youtube.com/watch?v=6GiU2SSG624",
+        genre: "romance, drama" 
             },
             {
         title: "Cut Bank",
@@ -1248,7 +1351,8 @@ array = [
         synopsis: "Things go from bad to worse when a murder witness (Liam Hemsworth) in small-town Montana tries to leverage the crime into a get-rich-quick scheme.",
         critics_consensus: "Cut Bank contains typically outstanding work from its solid veteran cast, but it's lost in a dull morass of predictably derivative crime thriller clichés.",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/043fb95fdb11b3ada14622a6ed4c771d516c0bdad3f7007a26b62849a38af1df._RI_V_TTW_.jpg",
-        trailer: "https://www.youtube.com/watch?v=uvavIfjTDaE" 
+        trailer: "https://www.youtube.com/watch?v=uvavIfjTDaE",
+        genre: "mystery, thrillers" 
             },
             {
         title: "Outlaws",
@@ -1260,7 +1364,8 @@ array = [
         synopsis: "When the leader of a motorcycle gang is released from prison, he must fight his former deputy for control of his turf in an epic clash of gang warfare and personal rivalry.",
         critics_consensus: "No consensus yet.",
         image_url: "https://m.media-amazon.com/images/I/81XQAd6mlTL._SL1500_.jpg",
-        trailer: "https://www.youtube.com/watch?v=7hxqPxXV27E" 
+        trailer: "https://www.youtube.com/watch?v=7hxqPxXV27E",
+        genre: "crime, drama"
             },
             {
         title: "Mojave",
@@ -1272,7 +1377,8 @@ array = [
         synopsis: "Mojave has no shortage of talent on either side of the camera; unfortunately, it amounts to little more than a frustrating missed opportunity.",
         critics_consensus: "Mojave has no shortage of talent on either side of the camera; unfortunately, it amounts to little more than a frustrating missed opportunity.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/A1zvMI3EwoL._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=xq9mAa1Dhkg" 
+        trailer: "https://www.youtube.com/watch?v=xq9mAa1Dhkg",
+        genre: "mystery, thriller" 
             },
             {
         title: "The Captive",
@@ -1284,7 +1390,8 @@ array = [
         synopsis: "Eight years after a child disappeared without a trace, detectives find disturbing clues that indicate that the girl is still alive.",
         critics_consensus: "Wan and lugubrious, The Captive represents another atmospheric, beautifully filmed misfire from director Atom Egoyan.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91HaH6htDHL._RI_.jpg",
-        trailer: "https://www.youtube.com/watch?v=5z3_vcRbi7k" 
+        trailer: "https://www.youtube.com/watch?v=5z3_vcRbi7k",
+        genre: "mystery, thriller" 
             },
             {
         title: "Woodshock",
@@ -1296,7 +1403,8 @@ array = [
         synopsis: "A haunted young woman spirals into confusion and chaos after she falls under the spell of a potent, reality-altering drug.",
         critics_consensus: "Woodshock's engages visually, but its half-baked premise is as underwhelming as it is unsatisfying.",
         image_url: "https://m.media-amazon.com/images/I/71Qw6oKUnhL._SY445_.jpg",
-        trailer: "https://www.youtube.com/watch?v=RpscZ_YD-ns" 
+        trailer: "https://www.youtube.com/watch?v=RpscZ_YD-ns",
+        genre: "drama" 
             },
             {
         title: "Barely Lethal",
@@ -1308,7 +1416,8 @@ array = [
         synopsis: "Seeking a normal adolescence, a special-operations agent (Hailee Steinfeld) fakes her own death and enrolls in high school as an exchange student.",
         critics_consensus: "No consensus yet.",
         image_url: "https://m.media-amazon.com/images/I/81nzhrK1GPL._SL1500_.jpg",
-        trailer: "https://www.youtube.com/watch?v=HwLY3aiT26U" 
+        trailer: "https://www.youtube.com/watch?v=HwLY3aiT26U",
+        genre: "action, comedy" 
             },
             {
         title: "Dark Places",
@@ -1320,7 +1429,8 @@ array = [
         synopsis: "A woman (Charlize Theron) confronts traumatic, childhood memories of the murder of her mother and two sisters when she investigates the possibility that her brother (Corey Stoll) is innocent of the crime.",
         critics_consensus: "Dark Places has a strong cast and bestselling source material, but none of it adds up to more than a mediocre thriller that gets tripped up on its own twists.",
         image_url: "https://m.media-amazon.com/images/I/41rkVnJCHJL._AC_.jpg",
-        trailer: "https://www.youtube.com/watch?v=SpG5dWV7piw" 
+        trailer: "https://www.youtube.com/watch?v=SpG5dWV7piw",
+        genre: "mystery, thriller" 
             },
             {
         title: "The Adderall Diaries",
@@ -1332,7 +1442,8 @@ array = [
         synopsis: "Suffering from writer's block, author Stephen Elliott (James Franco) reconnects with his estranged father (Ed Harris) while investigating the murder case of computer entrepreneur Hans Reiser (Christian Slater).",
         critics_consensus: "Stylistically overwrought and tedious, The Adderall Diaries aspires for profundity but instead feels like a shambolic class project thrown together right before it was due.",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/52638c516110607fe7eb8b2c1ae146e6b8cb239ea0b3c989d222ea2d1b4eefe6._RI_V_TTW_.jpg",
-        trailer: "https://www.youtube.com/watch?v=_qVMu-qnuNg" 
+        trailer: "https://www.youtube.com/watch?v=_qVMu-qnuNg",
+        genre: "drama" 
             },
             {
         title: "The Sea of Trees",
@@ -1344,7 +1455,8 @@ array = [
         synopsis: "After traveling to Japan's Aokigahara Forest, a troubled teacher (Matthew McConaughey) meets a mysterious stranger (Ken Watanabe) who takes him on a life-changing journey of love, discovery and redemption.",
         critics_consensus: "Dull, maudlin, and fundamentally empty, The Sea of Trees extinguishes the contributions of a talented cast and marks a depressing low point in director Gus Van Sant's career.",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/5132517af0c621a65a22ead8bb4d90a93afdcb228287c9fba0bf4c5f341761a0._RI_V_TTW_.jpg",
-        trailer: "https://www.youtube.com/watch?v=2tuemib6AG4" 
+        trailer: "https://www.youtube.com/watch?v=2tuemib6AG4",
+        genre: "drama" 
             },
             {
         title: "A Glimpse Inside the Mind of Charles Swan III",
@@ -1356,7 +1468,8 @@ array = [
         synopsis: "A graphic designer (Charlie Sheen) plays out unusual fantasies in his head as a way of coping with the departure of his longtime lover.",
         critics_consensus: "Charlie Sheen, Jason Schwartzman, Bill Murray, Patricia Arquette",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/14d9db5677b176e0bf5e777d66bd9f68a6ca39719773b69d7852a17dcaa7a1ee._RI_V_TTW_.jpg",
-        trailer: "https://www.youtube.com/watch?v=OWijct7LzAE" 
+        trailer: "https://www.youtube.com/watch?v=OWijct7LzAE",
+        genre: "comedy, drama" 
             },
             {
         title: "Revenge of the Green Dragons",
@@ -1368,7 +1481,8 @@ array = [
         synopsis: "A Chinese emigrant (Justin Chon) and his best friend (Kevin Wu) rise through the ranks of one of New York's most-powerful street gangs.",
         critics_consensus: "No consensus yet.",
         image_url: "https://m.media-amazon.com/images/I/51Y+hsjXWFL._SY445_.jpg",
-        trailer: "https://www.youtube.com/watch?v=M2eKchU1GZo" 
+        trailer: "https://www.youtube.com/watch?v=M2eKchU1GZo",
+        genre: "action" 
             },
             {
         title: "Sidney Hall",
@@ -1380,12 +1494,14 @@ array = [
         synopsis: "An enigmatic detective embarks on a cross-country search for a once-prominent author who's mysteriously disappeared after a string of dangerous arsons have targeted his celebrated but controversial first novel.",
         critics_consensus: "No consensus yet.",
         image_url: "https://images.justwatch.com/poster/85383346/s718/la-desaparicion-de-sidney-hall.%7Bformat%7D",
-        trailer: "https://www.youtube.com/watch?v=jmSciysEDoE" 
+        trailer: "https://www.youtube.com/watch?v=jmSciysEDoE",
+        genre: "drama" 
             }
 ]
 
+
 array.each do |o| 
-Film.create(title: o[:title], year: o[:year], runtime: o[:runtime], rotten_tomatoes_score: o[:rotten_tomatoes_score], director: o[:director], starring: o[:starring], synopsis: o[:synopsis], critics_consensus: o[:critics_consensus], image_url: o[:image_url], trailer: o[:trailer])
+Film.create(title: o[:title], year: o[:year], runtime: o[:runtime], rotten_tomatoes_score: o[:rotten_tomatoes_score], director: o[:director], starring: o[:starring], synopsis: o[:synopsis], critics_consensus: o[:critics_consensus], image_url: o[:image_url], trailer: o[:trailer], genre: o[:genre])
 end
 
 10.times do |o|
