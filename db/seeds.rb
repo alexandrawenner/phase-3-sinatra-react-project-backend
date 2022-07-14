@@ -1246,7 +1246,7 @@ array = [
         starring: "Andrew Garfield, Riley Keough, Topher Grace, Patrick Fischler",
         synopsis: "Sam is a disenchanted 33-year-old who discovers a mysterious woman, Sarah, frolicking in his apartment's swimming pool. When she vanishes, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal, and conspiracy in the City of Angels.",
         critics_consensus: "Under the Silver Lake hits its stride slightly more often than it stumbles, but it's hard not to admire - or be drawn in by - writer-director David Robert Mitchell's ambition.",
-        Image_url: "https://m.media-amazon.com/images/I/716PW20PcnL._AC_SY450_.jpg",
+        image_url: "https://i.pinimg.com/736x/43/7f/dd/437fddb42d25ec88cacc3a341fc0bcb9.jpg",
         trailer: "https://www.youtube.com/watch?v=mwgUesU1pz4" ,
         genre: "comedy"
             },
