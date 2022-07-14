@@ -6,7 +6,7 @@ array = [
         title: "Marcel the Shell with Shoes On",
         year: 2021,
         runtime: 89,
-        rotten_tomatoes_score: 99 ,
+        rotten_tomatoes_score: 99,
         director: "Dean Fleischer-Camp",
         starring: "Jenny Slate, Rosa Salazar, Thomas Mann, Isabella Rossellini",
         synopsis: "Marcel is an adorable, 1-inch-tall shell who ekes out a colorful existence with his grandmother, Connie, and their pet lint, Alan. Once part of a sprawling community of shells, they now live alone as the sole survivors of a mysterious tragedy. However, when a documentary filmmaker discovers them, the short film he posts online brings Marcel millions of passionate fans, as well as unprecedented dangers and a new hope of finding his long-lost family.",
@@ -40,7 +40,7 @@ array = [
         synopsis: "Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school -- the end of her thus far disastrous eighth-grade year.",
         critics_consensus: "Eighth Grade takes a look at its titular time period that offers a rare and resounding ring of truth while heralding breakthroughs for writer-director Bo Burnham and captivating star Elsie Fisher.",
         image_url: "https://m.media-amazon.com/images/I/41CZoQKlPQL._AC_SY580_.jpg",
-        trailer: "ttps://www.youtube.com/watch?v=y8lFgF_IjPw&ab_channel=A24",
+        trailer: "https://www.youtube.com/watch?v=y8lFgF_IjPw&ab_channel=A24",
         genre: "comedy, drama",
         banner: "https://saportakinsta.s3.amazonaws.com/wp-content/uploads/2018/08/eighthgrade4.jpg"
             },
