@@ -12,6 +12,7 @@ class CreateFilms < ActiveRecord::Migration[6.1]
       t.string :image_url
       t.string :trailer
       t.string :genre
+      t.string :banner
     end
   end
 end

@@ -6,14 +6,15 @@ array = [
         title: "Marcel the Shell with Shoes On",
         year: 2021,
         runtime: 89,
-        rotten_tomatoes_score: 99 ,
+        rotten_tomatoes_score: 99,
         director: "Dean Fleischer-Camp",
         starring: "Jenny Slate, Rosa Salazar, Thomas Mann, Isabella Rossellini",
         synopsis: "Marcel is an adorable, 1-inch-tall shell who ekes out a colorful existence with his grandmother, Connie, and their pet lint, Alan. Once part of a sprawling community of shells, they now live alone as the sole survivors of a mysterious tragedy. However, when a documentary filmmaker discovers them, the short film he posts online brings Marcel millions of passionate fans, as well as unprecedented dangers and a new hope of finding his long-lost family.",
         critics_consensus: "Poignant, profound, and utterly heartwarming, Marcel the Shell with Shoes On is animated entertainment with real heart.",
         image_url: "https://m.media-amazon.com/images/M/MV5BNTQ4ZmMxMzItNGQ0Yi00YTU5LTg1MTctM2ZkNTkzNGU0MDhlXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=k98Afd7Nf3Y&ab_channel=A24",
-        genre: "comedy, animation"
+        genre: "comedy, animation",
+        banner: "https://akns-images.eonline.com/eol_images/Entire_Site/202235/rs_1024x759-220405080923-1024-Marcel-the-Shell.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top"
             },
             {
         title: "Lady Bird",
@@ -26,7 +27,8 @@ array = [
         critics_consensus: "Lady Bird delivers fresh insights about the turmoil of adolescence -- and reveals writer-director Greta Gerwig as a fully formed filmmaking talent.",
         image_url: "https://m.media-amazon.com/images/I/81AuyLA3SLL._AC_SL1500_.jpg",
         trailer: "https://www.youtube.com/watch?v=cNi_HC839Wo&ab_channel=A24",
-        genre: "comedy, drama"
+        genre: "comedy, drama",
+        banner: "https://dazedimg-dazedgroup.netdna-ssl.com/1200/azure/dazed-prod/1240/4/1244540.jpg"
             },
             {
         title: "Eighth Grade",
@@ -38,8 +40,9 @@ array = [
         synopsis: "Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school -- the end of her thus far disastrous eighth-grade year.",
         critics_consensus: "Eighth Grade takes a look at its titular time period that offers a rare and resounding ring of truth while heralding breakthroughs for writer-director Bo Burnham and captivating star Elsie Fisher.",
         image_url: "https://m.media-amazon.com/images/I/41CZoQKlPQL._AC_SY580_.jpg",
-        trailer: "ttps://www.youtube.com/watch?v=y8lFgF_IjPw&ab_channel=A24",
-        genre: "comedy, drama"
+        trailer: "https://www.youtube.com/watch?v=y8lFgF_IjPw&ab_channel=A24",
+        genre: "comedy, drama",
+        banner: "https://saportakinsta.s3.amazonaws.com/wp-content/uploads/2018/08/eighthgrade4.jpg"
             },
             {
         title: "Moonlight",
@@ -52,7 +55,8 @@ array = [
         critics_consensus: "Moonlight uses one man's story to offer a remarkable and brilliantly crafted look at lives too rarely seen in cinema.",
         image_url: "https://m.media-amazon.com/images/I/91PbfpzX5uL._AC_SY679_.jpg",
         trailer: "https://www.youtube.com/watch?v=9NJj12tJzqc&ab_channel=A24",
-        genre: "drama, lgbtq+"
+        genre: "drama, lgbtq+",
+        banner: "https://cdn.vox-cdn.com/thumbor/8ncGig_bSSBEQZb2ED0cm47OCzQ=/0x0:5760x3840/1200x800/filters:focal(2680x1608:3600x2528)/cdn.vox-cdn.com/uploads/chorus_image/image/53439011/moonlight_01.0.jpg"
             },
             {
         title: "Minari",
@@ -65,7 +69,8 @@ array = [
         critics_consensus: "Led by arresting performances from Steven Yeun and Yeri Han, Minari offers an intimate and heart-wrenching portrait of family and assimilation in 1980s America.",
         image_url: "https://d135u4jtzauizi.cloudfront.net/A24_MINARI_POSTER.jpg",
         trailer: "https://www.youtube.com/watch?v=KQ0gFidlro8&ab_channel=A24",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://m.media-amazon.com/images/M/MV5BMjEwOWQyNDQtODAzNy00YjZjLWJjYTktMzViMzhlOGFiM2ZkXkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_.jpg"
             },
             {
         title: "The Farewell",
@@ -78,7 +83,8 @@ array = [
         critics_consensus: "The Farewell deftly captures complicated family dynamics with a poignant, well-acted drama that marries cultural specificity with universally relatable themes.",
         image_url: "https://m.media-amazon.com/images/I/413DMIigIUL._AC_.jpg",
         trailer: "https://www.youtube.com/watch?v=RofpAjqwMa8&ab_channel=A24",
-        genre: "comedy, drama"
+        genre: "comedy, drama",
+        banner: "https://www.indiewire.com/wp-content/uploads/2019/07/farewell-thumb-new2.jpg"
             },
             {
         title: "The Florida Project",
@@ -91,7 +97,8 @@ array = [
         critics_consensus: "The Florida Project offers a colorfully empathetic look at an underrepresented part of the population that proves absorbing even as it raises sobering questions about modern America.",
         image_url: "https://m.media-amazon.com/images/I/91rBWyKGWJL._AC_SL1500_.jpg",
         trailer: "https://www.youtube.com/watch?v=WwQ-NH1rRT4&ab_channel=A24",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://unitedwaymassbay.org/wp-content/uploads/2018/12/share.jpg"
             },
             {
         title: "First Cow",
@@ -104,7 +111,8 @@ array = [
         critics_consensus: "First Cow finds director Kelly Reichardt revisiting territory and themes that will be familiar to fans of her previous work -- with typically rewarding results.",
         image_url: "https://i.ytimg.com/vi/_BRVNsAFkhw/movieposter_en.jpg",
         trailer: "https://www.youtube.com/watch?v=SRUWVT87mt8&ab_channel=A24",
-        genre: "western, drama"
+        genre: "western, drama",
+        banner: "https://www.slantmagazine.com/wp-content/uploads/2019/09/firstcow.jpg"
             },
             {
         title: "Menashe",
@@ -117,7 +125,8 @@ array = [
         critics_consensus: "Menashe offers an intriguing look at a culture whose unfamiliarity to many viewers will be rendered irrelevant by the story's universally affecting themes and thoughtful approach.",
         image_url: "https://m.media-amazon.com/images/I/71pCAeK43+L._AC_SL1000_.jpg",
         trailer: "https://www.youtube.com/watch?v=83UoZcdX__Y&ab_channel=A24",
-        genre: "comedy, drama"
+        genre: "comedy, drama",
+        banner: "https://cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/7PMNJ7LK4IF2L3TTK6I7CS4UAE.jpg"
             },
             {
         title: "Everything, Everywhere, All at Once",
@@ -130,7 +139,8 @@ array = [
         critics_consensus: "Led by an outstanding Michelle Yeoh, Everything Everywhere All at Once lives up to its title with an expertly calibrated assault on the senses.",
         image_url: "https://m.media-amazon.com/images/I/71ZA7dqWjFL._AC_SY450_.jpg",
         trailer: "https://www.youtube.com/watch?v=wxN1T1uxQ2g&ab_channel=A24",
-        genre: "comedy, adventure"
+        genre: "comedy, adventure",
+        banner: "https://m.media-amazon.com/images/M/MV5BZjM0MDFmZDctNmFjMi00MzM2LWJlYmItMzk2MTJlZDI1ZGRkXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg"
             },
             {
         title: "Amy",
@@ -143,7 +153,8 @@ array = [
         critics_consensus: "As riveting as it is sad, Amy is a powerfully honest look at the twisted relationship between art and celebrity -- and the lethal spiral of addiction.",
         image_url: "https://m.media-amazon.com/images/I/71VNCp1lHCL._AC_SL1334_.jpg",
         trailer: "https://www.youtube.com/watch?v=_2yCIwmNuLE&ab_channel=A24",
-        genre: "documentary, biography"
+        genre: "documentary, biography",
+        banner: "https://assets.vogue.com/photos/62cd6b51ad7ee97cd69e4505/master/w_2560%2Cc_limit/GettyImages-86134683.jpg"
             },
             {
         title: "X",
@@ -156,7 +167,8 @@ array = [
         critics_consensus: "A fresh spin on the classic slasher formula, X marks the spot where Ti West gets resoundingly back to his horror roots.",
         image_url: "https://d135u4jtzauizi.cloudfront.net/X_Poster_A24.jpg",
         trailer: "https://www.youtube.com/watch?v=Awg3cWuHfoc&ab_channel=A24",
-        genre: "horror, mystery, thriller"
+        genre: "horror, mystery, thriller",
+        banner: "https://ca-times.brightspotcdn.com/dims4/default/534300b/2147483647/strip/true/crop/2249x1265+24+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fda%2F2f%2F878be5ff452cb4ae112df5df03a8%2Fxmoviemiagoth.jpg"
             },
             {
         title: "De Palma",
@@ -169,7 +181,8 @@ array = [
         critics_consensus: "De Palma may not make believers out of the director's detractors, but they'll likely share longtime fans' fascination with his career's worth of entertaining stories.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMjA5NDExMjA2Nl5BMl5BanBnXkFtZTgwMDQ4ODM2ODE@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=97XoMjwoZ5w&ab_channel=A24",
-        genre: "documentary"
+        genre: "documentary",
+        banner: "https://d135u4jtzauizi.cloudfront.net/_still/de-palma-cover.jpg"
             },
             {
         title: "Krisha",
@@ -182,7 +195,8 @@ array = [
         critics_consensus: "Raw, bracingly honest, and refreshingly unconventional, Krisha wrings fresh -- and occasionally uncomfortable -- truths from a seemingly familiar premise.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91dv1zCckNL._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=wnX_lLuENfI&ab_channel=A24",
-        genre: "holiday, drama"
+        genre: "holiday, drama",
+        banner: "https://www.indiewire.com/wp-content/uploads/2015/03/krisha-1.jpg"
             },
             {
         title: "First Reformed",
@@ -195,7 +209,8 @@ array = [
         critics_consensus: "Brought to life by delicate work from writer-director Paul Schrader and elevated by a standout performance by Ethan Hawke, First Reformed takes a sensitive and suspenseful look at weighty themes.",
         image_url: "https://m.media-amazon.com/images/I/61Ia5RTgV5L._SL1500_.jpg",
         trailer: "https://www.youtube.com/watch?v=hCF5Y8dQpR4&ab_channel=A24",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://static01.nyt.com/images/2018/05/18/arts/18firstreformed/18firstreformed-videoSixteenByNineJumbo1600-v2.jpg"
             },
             {
         title: "Boys State",
@@ -208,7 +223,8 @@ array = [
         critics_consensus: "Startling, upsetting, and overall absorbing, Boys State strikingly depicts American political divisions -- and machinations -- taking root in the next generation.",
         image_url: "https://m.media-amazon.com/images/M/MV5BN2JmMzA1OTgtYTJmMC00Y2Q2LTg2ZWQtMzg2MWQ4MjFmODZkXkEyXkFqcGdeQXVyMjAwNTYzNDg@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=E1Kh_T5ZBIM&ab_channel=A24",
-        genre: "documentary"
+        genre: "documentary",
+        banner: "https://static01.nyt.com/images/2020/08/14/arts/13boysstate/13boysstate-videoSixteenByNineJumbo1600.jpg"
             },
             {
         title: "Room",
@@ -221,7 +237,8 @@ array = [
         critics_consensus: "Led by incredible work from Brie Larson and Jacob Tremblay, Room makes for an unforgettably harrowing -- and undeniably rewarding -- experience.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=E_Ci-pAL4eE&ab_channel=A24",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://variety.com/wp-content/uploads/2015/09/room.jpg"
             },
             {
         title: "C'mon C'mon",
@@ -234,7 +251,8 @@ array = [
         critics_consensus: "The sweet chemistry between Joaquin Phoenix and Woody Norman is complemented by writer-director Mike Mills' empathetic work, helping C'mon C'mon transcend its familiar trappings.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMzkwZWJhOTUtZTJkMC00OWQ5LTljZDctYzgxNWFiYjEyZjZiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg",
         trailer: "https://www.youtube.com/watch?v=7mzushAOM88&ab_channel=A24",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://static01.nyt.com/images/2021/11/19/arts/18cmon-cmon-1/merlin_197779245_e238f3cc-d0cf-47bb-8dc1-5f7b0c24e712-superJumbo.jpg"
             },
             {
         title: "Saint Maud",
@@ -247,7 +265,8 @@ array = [
         critics_consensus: "A brilliantly unsettling blend of body horror and psychological thriller, Saint Maud marks an impressive debut for writer-director Rose Glass.",
         image_url: "https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2020/07/saint-maud.jpg?ssl=1",
         trailer: "https://www.youtube.com/watch?v=EXs2-TY9qok&ab_channel=A24",
-        genre: "horror"
+        genre: "horror",
+        banner: "https://m.media-amazon.com/images/M/MV5BYTRlNGE3YjctMDlhYy00MzkzLTg0ZjAtNzY4MmJlMDliMWZlXkEyXkFqcGdeQWFybm8@._V1_.jpg"
             },
             {
         title: "Val",
@@ -260,7 +279,8 @@ array = [
         critics_consensus: "An absorbingly reflective documentary that benefits from its subject's self-chronicling, Val offers an intimate look at a unique life and career.",
         image_url: "https://upload.wikimedia.org/wikipedia/en/2/2f/Val_poster.jpeg",
         trailer: "https://www.youtube.com/watch?v=YqNnhgEyQCU&ab_channel=PrimeVideo",
-        genre: "documentary, biography"
+        genre: "documentary, biography",
+        banner: "https://www.bt.com/content/dam/bt/portal/images/articles/tv/tv-documentary-val-prime-video.jpg"
             },
             {
         title: "Uncut Gems",
@@ -273,7 +293,8 @@ array = [
         critics_consensus: "Uncut Gems reaffirms the Safdies as masters of anxiety-inducing cinema -- and proves Adam Sandler remains a formidable dramatic actor when given the right material.",
         image_url: "https://m.media-amazon.com/images/I/81fMAYnOETL._AC_SY741_.jpg",
         trailer: "https://www.youtube.com/watch?v=vTfJp2Ts9X8&ab_channel=A24",
-        genre: "comedy, mystery, thriller"
+        genre: "comedy, mystery, thriller",
+        banner: "https://static01.nyt.com/images/2019/12/13/arts/13uncut-1/13uncut-1-superJumbo.jpg"
             },
             {
         title: "Ex Machina",
@@ -286,7 +307,8 @@ array = [
         critics_consensus: "Ex Machina leans heavier on ideas than effects, but it's still a visually polished piece of work -- and an uncommonly engaging sci-fi feature.",
         image_url: "https://m.media-amazon.com/images/I/71f6I4cjM7L._AC_SY679_.jpg",
         trailer: "https://www.youtube.com/watch?v=bggUmgeMCdc&ab_channel=A24",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://media.wired.com/photos/590a54bb9f8d2e342d8e774b/master/pass/ex-machina.jpg"
             },
             {
         title: "The Tragedy of Macbeth",
@@ -299,7 +321,8 @@ array = [
         critics_consensus: "Led by a stellar Denzel Washington, The Tragedy of Macbeth strips the classic story down to its visual and narrative essentials.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMzM0YWNmMDEtNmI3Yy00NjQ4LWJlZjMtMzk2YjUxOThhZGQxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
         trailer: "https://www.youtube.com/watch?v=HM3hsVrBMA4&ab_channel=A24",
-        genre: "drama, mystery, thriller"
+        genre: "drama, mystery, thriller",
+        banner: "https://images.hindustantimes.com/img/2022/01/14/1600x900/MACBETH_movie_review_1642139782789_1642139782941.PNG"
             },
             {
         title: "Good Time",
@@ -312,7 +335,8 @@ array = [
         critics_consensus: "A visual treat filled out by consistently stellar work from Robert Pattinson, Good Time is a singularly distinctive crime drama offering far more than the usual        genre thrills.",
         image_url: "https://m.media-amazon.com/images/M/MV5BNGQ3Y2VjNmUtMDdiMC00YTE1LWI5NmUtZDIzMTJmODQyNDU4XkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=AVyGCxHZ_Ko&ab_channel=A24",
-        genre: "drama, crime"
+        genre: "drama, crime",
+        banner: "https://static01.nyt.com/images/2017/08/11/arts/11goodtime-web01/11goodtime-web01-superJumbo.jpg"
             },
             {
         title: "The Last Black Man in San Francisco",
@@ -325,7 +349,8 @@ array = [
         critics_consensus: "An affecting story powerfully told, The Last Black Man in San Francisco immediately establishes director Joe Talbot as a filmmaker to watch.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91N9LM3+FqL._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=C0FnJDhY9-0&ab_channel=A24",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://media.vanityfair.com/photos/5cf6d6ac0863bf8bccd7e98a/master/w_1600%2Cc_limit/LBMISF_59.jpg"
             },
             {
         title: "The End of the Tour",
@@ -338,7 +363,8 @@ array = [
         critics_consensus: "Brilliantly performed and smartly unconventional, The End of the Tour pays fitting tribute to a singular talent while offering profoundly poignant observations on the human condition.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/8104vWOHCAL._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=9Jl6qBNfQC4&ab_channel=A24",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://api.time.com/wp-content/uploads/2015/08/jasonsegel-theendoftour-2015.jpg?quality=85&w=2048"
             },
             {
         title: "Slow West",
@@ -351,7 +377,8 @@ array = [
         critics_consensus: "Slow West serves as an impressive calling card for first-time writer-director John M. Maclean -- and offers an inventive treat for fans of the Western.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/A1fBxlPRl3L._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=nRQFlVoHU2g&ab_channel=A24",
-        genre: "western"
+        genre: "western",
+        banner: "https://ic.c4assets.com/brands/slow-west/8d16fa55-a672-4ae9-96b8-662f56b3b6bb.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
             },
             {
         title:  "The Humans",
@@ -364,7 +391,8 @@ array = [
         critics_consensus: "The Humans takes its Tony-winning source material from stage to screen without sacrificing the essence of writer-director Stephen Karam's dysfunctional drama.",
         image_url: "https://m.media-amazon.com/images/M/MV5BZDFhNWJjZDQtODgxNC00ZGZmLTkyYzItNTc0ZTVlODZkYjZkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
         trailer: "https://www.youtube.com/watch?v=dp3Whb77eXc&ab_channel=A24",
-        genre: "holiday"
+        genre: "holiday",
+        banner: "https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/the-humans-movie-review-2021/the-humans-movie-review-2021.jpeg"
             },
             {
         title: "A Prayer Before Dawn",
@@ -377,7 +405,8 @@ array = [
         critics_consensus: "A Prayer Before Dawn is far from an easy watch, but this harrowing prison odyssey delivers rich rewards -- led by an outstanding central performance from Joe Cole.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMzU5NzhlOGYtODE0YS00ZmUxLWI2YzctNTM0ZWNjMmJjMjBkXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=Mp88Nuci68c&ab_channel=A24",
-        genre: "action"
+        genre: "action",
+        banner: "https://s1.dmcdn.net/v/OALwA1RJwyUr3lp1G/x1080"
             },
             {
         title: "The Disaster Artist",
@@ -390,7 +419,8 @@ array = [
         critics_consensus: "Oh, hai Mark. The Disaster Artist is a surprisingly poignant and charming movie-about-a-movie that explores the creative process with unexpected delicacy.",
         image_url: "https://m.media-amazon.com/images/I/71ceAWOLo3L._AC_SY679_.jpg",
         trailer: "https://www.youtube.com/watch?v=sPSJYXi7BWA&ab_channel=A24",
-        genre: "comedy, drama"
+        genre: "comedy, drama",
+        banner: "https://static01.nyt.com/images/2017/12/01/arts/01disasterartist-web/01disasterartist-web-videoSixteenByNineJumbo1600.jpg"
             },
             {
         title: "Locke",
@@ -403,7 +433,8 @@ array = [
         critics_consensus: "A one-man show set in a single confined location, Locke demands a powerful performance -- and gets it from a never-more-compelling Tom Hardy.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMTQ1MjE5MzU2M15BMl5BanBnXkFtZTgwNzE4OTMzMTE@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=TsBDYAYnQb0&ab_channel=A24",
-        genre: "drama"
+        genre: "drama",
+        banner: "http://prod-upp-image-read.ft.com/94f0e4ae-c56e-11e3-89a9-00144feabdc0"
             },
             {
         title: "Gloria Bell",
@@ -416,7 +447,8 @@ array = [
         critics_consensus: "Free of visual or narrative embellishments, Gloria Bell rests almost completely on Julianne Moore's performance in the title role -- and she's gloriously up to the task.",
         image_url: "https://m.media-amazon.com/images/I/81iLyvq7weL._AC_SY741_.jpg",
         trailer: "https://www.youtube.com/watch?v=YCwCdQK2Qss&ab_channel=A24",
-        genre: "comedy, drama"
+        genre: "comedy, drama",
+        banner: "https://d279m997dpfwgl.cloudfront.net/wp/2019/03/GLORIA-BELL_01591.jpg"
             },
             {
         title: "The Spectacular Now",
@@ -429,7 +461,8 @@ array = [
         critics_consensus: "The Spectacular Now is an adroit, sensitive film that avoids typical coming-of-age story trappings.",
         image_url: "https://m.media-amazon.com/images/I/51VOtaU8dtL._AC_.jpg",
         trailer: "https://www.youtube.com/watch?v=0dCfbBwFI2Y&ab_channel=A24",
-        genre: "comedy, drama"
+        genre: "comedy, drama",
+        banner: "https://www.indiewire.com/wp-content/uploads/2020/03/Spectacular-Now.png"
             },
             {
         title: "In Fabric",
@@ -442,7 +475,8 @@ array = [
         critics_consensus: "In Fabric's gauzy giallo allure weaves a surreal spell, blending stylish horror and dark comedy to offer audiences a captivating treat.",
         image_url: "https://external-preview.redd.it/7SUqzumnwu1NESXfePTEk8Gt5v4fxcgvbOXlUOsCUEQ.jpg?width=640&crop=smart&auto=webp&s=4bbb93c4b6fa87dec26a495e747748712f4696b6",
         trailer: "https://www.youtube.com/watch?v=biHUTtV4K40&ab_channel=A24",
-        genre: "horror, comedy"
+        genre: "horror, comedy",
+        banner: "https://i0.wp.com/thequeerreview.com/wp-content/uploads/2020/08/In-Fabric-Thumbnail.jpg?fit=2000%2C1125&ssl=1"
             },
             {
         title: "The Souvenir Part II",
@@ -455,7 +489,8 @@ array = [
         critics_consensus: "Drawing on another terrific performance from Honor Swinton Byrne, The Souvenir Part II continues its story with profound emotional complexity and elegant storytelling.",
         image_url: "https://m.media-amazon.com/images/M/MV5BODllMjY0MWYtNTMzMi00MDU4LTllZjItY2ViMDkwNDRmZTI0XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=3PR_ZK57c54&ab_channel=A24",
-        genre: "drama, romance"
+        genre: "drama, romance",
+        banner: "https://media.newyorker.com/photos/617c169810c9b2a68df01b37/master/pass/Brody-TheSouvenirPartII.jpg"
             },
             {
         title: "Mississippi Grind",
@@ -468,7 +503,8 @@ array = [
         critics_consensus: "Well-acted and steeped in Southern atmosphere, Mississippi Grind is a road movie and addiction drama that transcends each of its well-worn      genres.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91x+mShAn7L._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=7p1MNB6TNQU&ab_channel=A24",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://www.sbs.com.au/movies/sites/sbs.com.au.film/files/mississippi-grind-backdrop.jpg"
             },
             {
         title: "The Lighthouse",
@@ -481,7 +517,8 @@ array = [
         critics_consensus: "A gripping story brilliantly filmed and led by a pair of powerhouse performances, The Lighthouse further establishes Robert Eggers as a filmmaker of exceptional talent.",
         image_url: "https://upload.wikimedia.org/wikipedia/en/2/2c/The_Lighthouse.jpeg",
         trailer: "https://www.youtube.com/watch?v=Hyag7lR8CPA&ab_channel=A24",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://media.gq.com/photos/5da62c0d49acb20008f2501c/4:3/w_2699,h_2024,c_limit/the-lighthouse-film-review-gq-october-101519.jpg"
             },
             {
         title: "The Witch",
@@ -494,7 +531,8 @@ array = [
         critics_consensus: "As thought-provoking as it is visually compelling, The Witch delivers a deeply unsettling exercise in slow-building horror that suggests great things for debuting writer-director Robert Eggers.",
         image_url: "https://upload.wikimedia.org/wikipedia/en/b/bf/The_Witch_poster.png",
         trailer: "https://www.youtube.com/watch?v=iQXmlf3Sefg",
-        genre: "horror"
+        genre: "horror",
+        banner: "https://api.time.com/wp-content/uploads/2016/02/the-witch-still.jpg"
             },
             {
         title: "A Ghost Story",
@@ -507,7 +545,8 @@ array = [
         critics_consensus: "A Ghost Story deftly manages its ambitious themes through an inventive, artful, and ultimately poignant exploration of love and loss.",
         image_url: "https://upload.wikimedia.org/wikipedia/en/d/dd/A_Ghost_Story_poster.jpeg",
         trailer: "https://www.youtube.com/watch?v=c_3NMtxeyfk",
-        genre: "drama, fantasy"
+        genre: "drama, fantasy",
+        banner: "https://media.npr.org/assets/img/2017/07/07/ghost-story_wide-5f34658a891d767df144284083b21b0c19a00bc1.jpg?s=1400"
             },
             {
         title: "Green Room",
@@ -520,7 +559,8 @@ array = [
         critics_consensus: "Green Room delivers unapologetic        genre thrills with uncommon intelligence and powerfully acted élan.",
         image_url: "https://cps-static.rovicorp.com/2/Open/A24_2075/Program/27052918/_derived_jpg_q90_310x470_m0/GreenRoom_PA1.jpg",
         trailer: "https://www.youtube.com/watch?v=Q8XSARX3DQg" ,
-        genre: "horror"
+        genre: "horror",
+        banner: "https://api.time.com/wp-content/uploads/2016/04/green-room.jpg?quality=85&w=2000"
             },
             {
         title: "A Most Violent Year",
@@ -533,7 +573,8 @@ array = [
         critics_consensus: "Gritty, gripping, and weighted with thought-provoking heft, A Most Violent Year represents another strong entry in writer-director J.C. Chandor's impressive filmography.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMjE4OTY4ODg3Ml5BMl5BanBnXkFtZTgwMTI1MTg1MzE@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=lZU7U3k3gHY" ,
-        genre: "crime, mystery, thriller"
+        genre: "crime, mystery, thriller",
+        banner: "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2015/01/13/Weekend/Images/wk-mostviolent0116-2.jpg?t=20170517"
             },
             {
         title: "Red Rocket",
@@ -546,7 +587,8 @@ array = [
         critics_consensus: "Led by Simon Rex's magnetic performance, Red Rocket is another vibrant, ground-level look at modern American life from director/co-writer Sean Baker.",
         image_url: "https://m.media-amazon.com/images/M/MV5BZjYyZWMyNjYtZjNlNC00NmNhLThjOTItYmViMGU5ZDU4YTM4XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
         trailer: "https://www.youtube.com/watch?v=Wfndmy-6e28" ,
-        genre: "comedy, drama"
+        genre: "comedy, drama",
+        banner: "https://media.newyorker.com/photos/61bbcff4c04331a627248f80/16:9/w_2192,h_1233,c_limit/Brody-RedRocket.jpg"
             },
             {
         title: "Lean on Pete",
@@ -559,7 +601,8 @@ array = [
         critics_consensus: "Lean on Pete avoids mawkish melodrama, offering an empathetic yet clear-eyed portrayal of a young man at a crossroads that confirms Charley Plummer as a major talent.",
         image_url: "https://m.media-amazon.com/images/M/MV5BNWRiYzYxNTEtYmU5My00M2Q5LTk5Y2ItZjhkMTZmNjVhYmFhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=nzlazAyylw8",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://www.filmcomment.com/wp-content/uploads/sites/2/2018/02/lean-on-pete-movie-main-1600x900-c-default.jpg"
             },
             {
         title: "The Souvenir",
@@ -572,7 +615,8 @@ array = [
         critics_consensus: "Made by a filmmaker in command of her craft and a star perfectly matched with the material, The Souvenir is a uniquely impactful coming of age drama.",
         image_url: "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/The_Souvenir_%282019_poster%29.png/220px-The_Souvenir_%282019_poster%29.png",
         trailer: "https://www.youtube.com/watch?v=t9Al2nC0vzY&ab_channel=A24",
-        genre: "romance, drama"
+        genre: "romance, drama",
+        banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmlLULZKTjnhN2c7GQw3EKOU3gX2lGdGH6OQ&usqp=CAU"
             },
             {
         title: "Obvious Child" ,
@@ -585,7 +629,8 @@ array = [
         critics_consensus: "An immature, newly unemployed comic (Jenny Slate) must navigate the murky waters of adulthood after her fling with a graduate student (Jake Lacy) results in an unplanned pregnancy.",
         image_url: "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Obvious_Child_poster.jpg/220px-Obvious_Child_poster.jpg",
         trailer: "https://www.youtube.com/watch?v=r2GN3wdfqbA&ab_channel=A24",
-        genre: "comedy"
+        genre: "comedy",
+        banner: "https://www.gannett-cdn.com/-mm-/3d93021e91b0ec7a084ab7d527e0eff44827b6fb/c=0-104-2000-1229/local/-/media/Poughkeepsie/2014/06/25/pni0612jennyslateinterview2.jpg?width=2000&height=1125&fit=crop&format=pjpg&auto=webp"
             },
             {
         title: "Hereditary",
@@ -598,7 +643,8 @@ array = [
         critics_consensus: "Hereditary uses its classic setup as the framework for a harrowing, uncommonly unsettling horror film whose cold touch lingers long beyond the closing credits.",
         image_url: "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/6267cf047f29e5b4e110665e91aa6d90_7e8294ed-26b3-4992-bcff-5d8550d15421_510x.jpg?v=1573587291",
         trailer: "https://www.youtube.com/watch?v=V6wWKNij_1M&ab_channel=A24",
-        genre: "horror"
+        genre: "horror",
+        banner: "https://images.squarespace-cdn.com/content/v1/5885583b15d5dbbc7939b57b/1540777810159-2LEJ0OTCQHQ15J1SQ35T/MV5BNjYwZjkzZWEtYmFjNC00YzA5LTg2NzAtYWQyZmQxZTliNmRlXkEyXkFqcGdeQW1yb3NzZXI%40._V1_.jpg?format=2500w"
             },
             {
         title: "The Green Knight",
@@ -611,7 +657,8 @@ array = [
         critics_consensus: "The Green Knight honors and deconstructs its source material in equal measure, producing an absorbing adventure that casts a fantastical spell.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMjMxNTdiNWMtOWY0My00MjM4LTkwNzMtOGI0YThhN2Q4M2I4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=sS6ksY8xWCY&ab_channel=A24",
-        genre: "fantasy, adventure"
+        genre: "fantasy, adventure",
+        banner: "https://media.newyorker.com/photos/6109a4fc3fc02b75267ce1e1/master/pass/Brody-TheGreenKnight.jpg"
             },
             {
         title: "Zola",
@@ -624,7 +671,8 @@ array = [
         critics_consensus: "Zola captures the stranger-than-fiction appeal of the viral Twitter thread that inspired it -- and announces director/co-writer Janicza Bravo as a filmmaker to watch.",
         image_url: "https://media-cache.cinematerial.com/p/500x/hmjjxtcm/zola-movie-poster.jpg?v=1582196644",
         trailer: "https://www.youtube.com/watch?v=fp2x4M5-lpM&ab_channel=A24",
-        genre: "comedy, mystery, thriller"
+        genre: "comedy, mystery, thriller",
+        banner: "https://www.gannett-cdn.com/presto/2021/06/24/NA36/9b1dea2f-6a92-45b3-8fd2-0b0ac13cf222-Zola_Pull_19_R.jpg"
             },
             {
         title: "20th Century Women",
@@ -637,7 +685,8 @@ array = [
         critics_consensus: "20th Century Women offers Annette Bening a too-rare opportunity to shine in a leading role -- and marks another assured step forward for writer-director Mike Mills.",
         image_url: "https://movieposters2.com/images/1537974-b.jpg",
         trailer: "https://www.youtube.com/watch?v=6JnFaltqnAY&ab_channel=A24",
-        genre: "comedy, drama"
+        genre: "comedy, drama",
+        banner: "https://media2.sacurrent.com/sacurrent/imager/u/original/2577284/20th-century-women-pics.jpg"
             },
             {
         title: "After Yang",
@@ -650,7 +699,8 @@ array = [
         critics_consensus: "When his young daughter's beloved companion -- an android named Yang -- malfunctions, Jake (Colin Farrell) searches for a way to repair him. In the process, Jake discovers the life that has been passing in front of him, reconnecting with his wife (Jodie Turner-Smith) and daughter across a distance he didn't know was there.",
         image_url: "https://m.media-amazon.com/images/M/MV5BZjkzYmFjZGItMDYwMy00YTljLWE0YWYtOWNmNzdkZDdlYmI5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=Kwp32zLc08c&ab_channel=A24",
-        genre: "drama, sci-fi"
+        genre: "drama, sci-fi",
+        banner: "http://www.highonfilms.com/wp-content/uploads/2022/03/After-Yang-Movie-Explained-Family-in-Yangs-Memory.png"
             },
             {
         title: "On the Rocks",
@@ -658,12 +708,13 @@ array = [
         runtime: 96,
         rotten_tomatoes_score: 87,
         director: "Sofia Coppola",
-        starring: "Bill Murray, Rashida Jones, Marlon Wayans, Jessica Henwick",
+        starring: "ill Murray, Rashida Jones, Marlon Wayans, Jessica Henwick",
         synopsis: "The story of a young mother who reconnects with her larger-than-life playboy father on an adventure through New York. In this comedy about aging, marriage, and the tenuous bond between parents and grown children, New York author and married mother-of-two Laura has become suspicious that her career-driven husband may be having an affair with a coworker, a speculation encouraged by her caddish, bon vivant father.",
         critics_consensus: "On the Rocks isn't as potent as its top-shelf ingredients might suggest, but the end result still goes down easy -- and offers high proof of Bill Murray's finely aged charm.",
         image_url: "https://i.redd.it/7zbzi2wzp8k51.jpg",
         trailer: "https://www.youtube.com/watch?v=Xn3sK4WiviA&ab_channel=A24",
-        genre: "comedy"
+        genre: "comedy",
+        banner: "https://media.newyorker.com/photos/5f91bdc3d2318879f732a208/master/pass/Brody-OnTheRocks.jpg"
             },
             {
         title: "The Lobster",
@@ -676,7 +727,8 @@ array = [
         critics_consensus: "As strange as it is thrillingly ambitious, The Lobster is definitely an acquired taste -- but for viewers with the fortitude to crack through Yorgos Lanthimos' offbeat sensibilities, it should prove a savory cinematic treat.",
         image_url: "https://m.media-amazon.com/images/M/MV5BNDQ1NDE5NzQ1NF5BMl5BanBnXkFtZTgwNzA5OTM2NTE@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=LTNZmOJxuAc&ab_channel=A24",
-        genre: "fantasy, drama"
+        genre: "fantasy, drama",
+        banner: "https://www.filmcomment.com/wp-content/uploads/sites/2/2016/02/1850f0461f6b51ff0dc33118cce9eb44-feature-1600x900-c-default.jpg"
             },
             {
         title: "It Comes at Night",
@@ -689,7 +741,8 @@ array = [
         critics_consensus: "It Comes at Night makes lethally effective use of its bare-bones trappings while proving once again that what's left unseen can be just as horrifying as anything on the screen.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMjQ3MDA0ODA2N15BMl5BanBnXkFtZTgwNzg0NzgwMjI@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=6YOYHCBQn9g&ab_channel=A24",
-        genre: "horror"
+        genre: "horror",
+        banner: "https://images.squarespace-cdn.com/content/v1/52d6d1ede4b0b322e9c7a2ea/1496725214826-Q6X2P6ONPBP358S65WSS/image-asset.png"
             },
             {
         title: "Morris from America",
@@ -702,7 +755,8 @@ array = [
         critics_consensus: "Morris from America adds some novel narrative twists to its father-son story -- and gains added resonance thanks to a powerful performance from Craig Robinson.",
         image_url: "https://m.media-amazon.com/images/M/MV5BNDgyMzU5MTc2Ml5BMl5BanBnXkFtZTgwMTYwNzcxOTE@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=AKhFNgFdbDk&ab_channel=A24",
-        genre: "comedy, drama"
+        genre: "comedy, drama",
+        banner: "https://static01.nyt.com/images/2016/08/19/arts/19MORRIS/19MORRIS-superJumbo.jpg"
             },
             {
         title: "Lamb",
@@ -715,7 +769,8 @@ array = [
         critics_consensus: "Morris from America adds some novel narrative twists to its father-son story -- and gains added resonance thanks to a powerful performance from Craig Robinson.",
         image_url: "https://m.media-amazon.com/images/M/MV5BNzYzZTI2YmQtYmZlOS00NDI0LTg5MTktODJkNzc2Yzg0ZmMxXkEyXkFqcGdeQXVyNTQwOTY1MTg@._V1_FMjpg_UX1000_.jpg",
         trailer: "https://www.youtube.com/watch?v=hnEwJKVWjFM&ab_channel=A24",
-        genre: "horror, fantasy"
+        genre: "horror, fantasy",
+        banner: "https://www.denofgeek.com/wp-content/uploads/2021/10/Noomi-Rapace-and-Ada-in-A24s-Lamb-Review.jpeg?fit=1300%2C707"
             },
             {
         title: "Under the Skin",
@@ -728,7 +783,8 @@ array = [
         critics_consensus: "Its message may prove elusive for some, but with absorbing imagery and a mesmerizing performance from Scarlett Johansson, Under the Skin is a haunting viewing experience.",
         image_url: "https://m.media-amazon.com/images/I/81wj+kdR5nL._AC_SY679_.jpg",
         trailer: "https://www.youtube.com/watch?v=J7bAZCOk0Sc&ab_channel=A24",
-        genre: "sci-fi"
+        genre: "sci-fi",
+        banner: "https://ianthecool.files.wordpress.com/2015/03/3cxnpap.png"
             },
             {
         title: "Waves",
@@ -741,7 +797,8 @@ array = [
         critics_consensus: "An up-close look at one family's emotional ups and downs, Waves captures complicated dynamics with tenderness and grace.",
         image_url: "https://cdn.shopify.com/s/files/1/0747/3829/products/mL3798_1024x1024.jpg?v=1572527769",
         trailer: "https://www.youtube.com/watch?v=V5z3cr8AB5g&ab_channel=A24",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://images.squarespace-cdn.com/content/v1/5702ab9d746fb9634796c9f9/1573746751700-4D93MVUM2E38K5MAR5BX/waves.png?format=1500w"
             },
             {
         title: "While We're Young",
@@ -754,7 +811,8 @@ array = [
         critics_consensus: "Poignant and piercingly honest, While We're Young finds writer-director Noah Baumbach delivering some of his funniest lines through some of his most relatable characters.",
         image_url: "https://media.vanityfair.com/photos/54da7bd98a2fdf64645fdd63/master/w_1600%2Cc_limit/while-were-young-poster.jpg",
         trailer: "https://www.youtube.com/watch?v=lNEKFG0eAKE" ,
-        genre: "comedy, drama"
+        genre: "comedy, drama",
+        banner: "https://static01.nyt.com/images/2015/03/26/multimedia/while-anatomy/while-anatomy-superJumbo.jpg"
             },
             {
         title: "Supersonic",
@@ -767,7 +825,8 @@ array = [
         critics_consensus: "Oasis: Supersonic foregoes a comprehensive approach to its multi-platinum subjects in favor of an appreciative -- and stirring -- look at their heady early years.",
         image_url: "https://i.ebayimg.com/images/g/2VwAAOSwmLlX84cR/s-l400.jpg",
         trailer: "https://www.youtube.com/watch?v=7wZJqUrJyDs&ab_channel=A24",
-        genre: "documentary, music"
+        genre: "documentary, music",
+        banner: "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/57e2bc2e9f7456b9729cc281/1557985623157/a24-releasing-oasis-documentary-supersonic-in-the-us-for-one-night-social.jpg?format=1500w"
             },
             {
         title: "Midsommar",
@@ -780,7 +839,8 @@ array = [
         critics_consensus: "Ambitious, impressively crafted, and above all unsettling, Midsommar further proves writer-director Ari Aster is a horror auteur to be reckoned with.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=1Vnghdsjmd0&ab_channel=A24",
-        genre: "horror"
+        genre: "horror",
+        banner: "https://media.newyorker.com/photos/5d23b6746157520008b1d877/master/pass/Brody-Midsommar.jpg"
             },
             {
         title: "The Hole in the Ground",
@@ -793,7 +853,8 @@ array = [
         critics_consensus: "The Hole in the Ground artfully exploits parental fears with a well-made horror outing that makes up in sheer effectiveness what it lacks in originality.",
         image_url: "https://strasbourgfestival.com/wp-content/uploads/2019/08/The-Hole-in-the-Ground-Poster.png",
         trailer: "https://www.youtube.com/watch?v=BxY2vnJiByw&ab_channel=A24",
-        genre: "horror"
+        genre: "horror",
+        banner: "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2019%2F03%2Fhole-in-the-ground-1-2000.jpg&q=60"
             },
             {
         title: "High Life",
@@ -806,7 +867,8 @@ array = [
         critics_consensus: "High Life is as visually arresting as it is challenging, confounding, and ultimately rewarding - which is to say it's everything film fans expect from director Claire Denis.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMDNjN2NjYmItMjAyZi00NmNkLWJmYTQtYzcwZGRiM2RmNGNlXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=AtOwfo1ypOw&ab_channel=A24",
-        genre: "adventure"
+        genre: "adventure",
+        banner: "https://www.everyscifi.com/wp-content/uploads/2021/05/High-life-2.jpg"
             },
             {
         title: "The Lovers",
@@ -819,7 +881,8 @@ array = [
         critics_consensus: "With appealing leads and a narrative approach that offers a fresh perspective on familiar themes, The Lovers tells a quietly absorbing story with unexpected emotional resonance.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/71nQDGPaK3L._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=nk-T71VhP8I&ab_channel=A24",
-        genre: "comedy, romance"
+        genre: "comedy, romance",
+        banner: "https://media.newyorker.com/photos/590980a42179605b11ad990c/master/w_2560%2Cc_limit/Brody-The-Lovers.jpg"
             },
             {
         title: "The Killing of a Sacred Deer",
@@ -832,7 +895,8 @@ array = [
         critics_consensus: "The Killing of a Sacred Deer continues director Yorgos Lanthimos' stubbornly idiosyncratic streak -- and demonstrates again that his is a talent not to be ignored.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMjU4NDcwOTA2NF5BMl5BanBnXkFtZTgwMjE2OTg4MzI@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=CQFdGfwChtw",
-        genre: "horror"
+        genre: "horror",
+        banner: "https://www.gannett-cdn.com/-mm-/687788624f80635662e23eb75192105091c3d378/c=0-240-4704-2898/local/-/media/2017/10/25/Phoenix/Phoenix/636445402526138504-resize-the-killing-of-a-sacred-deer-KSD-02198-rgb-1-.jpg"
             },
             {
         title: "Mid90s",
@@ -845,7 +909,8 @@ array = [
         critics_consensus: "Mid90s tells a clear-eyed yet nostalgic coming-of-age tale that might mark the start of an auspicious new career for debuting writer-director Jonah Hill.",
         image_url: "https://m.media-amazon.com/images/I/71bFo5PDpSL._AC_SY741_.jpg",
         trailer: "https://www.youtube.com/watch?v=w9Rx6-GaSIE",
-        genre: "comedy, drama"
+        genre: "comedy, drama",
+        banner: "https://media.vanityfair.com/photos/5bc8b882d74dbf2da43fc80d/master/pass/Mid90s-Still.jpg"
             },
             {
         title: "The Monster",
@@ -858,7 +923,8 @@ array = [
         critics_consensus: "The Monster uses its effectively simple setup and a powerful lead performance from Zoe Kazan to deliver a traditional yet subtly subversive -- and thoroughly entertaining -- horror story.",
         image_url: "https://m.media-amazon.com/images/M/MV5BOTI2MjY3MDkzOV5BMl5BanBnXkFtZTgwODQ4NTQ0MDI@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=tbyCUdzR87Y",
-        genre: "horror, fantasy"
+        genre: "horror, fantasy",
+        banner: "https://www.indiewire.com/wp-content/uploads/2018/07/Birds-of-a-Feather-graphic.jpg"
             },
             {
         title: "American Honey",
@@ -871,7 +937,8 @@ array = [
         critics_consensus: "American Honey offers a refreshingly unconventional take on the coming-of-age drama whose narrative risks add up to a rewarding experience even if they don't all pay off.",
         image_url: "https://musicart.xboxlive.com/7/6a713500-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
         trailer: "https://www.youtube.com/watch?v=y1SpWZm1PLc",
-        genre: "comedy, drama"
+        genre: "comedy, drama",
+        banner: "https://cdn.vox-cdn.com/thumbor/nRW-2aIjJ_Drb7Xs5nWBqi3_mk8=/0x0:1500x1000/1280x854/cdn.vox-cdn.com/uploads/chorus_image/image/51109065/american-honey-_MG_4702_rgb.0.0.jpg"
             },
             {
         title: "Ginger & Rosa",
@@ -884,7 +951,8 @@ array = [
         critics_consensus: "Elle Fanning gives a terrific performance in this powerful coming-of-age tale about a pair of teenage girls whose friendship is unnerved by the threat of nuclear war.",
         image_url: "https://media-cache.cinematerial.com/p/500x/1mpf4ot0/ginger-rosa-movie-poster.jpg?v=1456548577",
         trailer: "https://www.youtube.com/watch?v=13oRYH0YpSA",
-        genre: "drama, lgbtq+"
+        genre: "drama, lgbtq+",
+        banner: "https://www.showbizjunkies.com/wp-content/uploads/2013/03/ginger-and-rosa-review-1280x720.jpg"
             },
             {
         title: "Skin",
@@ -897,7 +965,8 @@ array = [
         critics_consensus: "Skin could stand to go a bit deeper below its surface, but a worthy story and a committed performance from Jamie Bell make this timely drama well worth a watch.",
         image_url: "https://preview.redd.it/7n3kp4uas3431.jpg?auto=webp&s=c93b50b46c0659ef4a3de64a29817d7c48497f80",
         trailer: "https://www.youtube.com/watch?v=DkCVrWC0ZP4",
-        genre: "biography, drama"
+        genre: "biography, drama",
+        banner: "https://www.rollingstone.com/wp-content/uploads/2019/07/skin-review.jpg"
             },
             {
         title: "Never Goin Back",
@@ -910,7 +979,8 @@ array = [
         critics_consensus: "Never Goin' Back benefits from the chemistry between leads Maia Mitchell and Camila Morrone, whose easy rapport lifts a coming-of-age story with uncommon insight.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMTg4Mjg5NjQwMF5BMl5BanBnXkFtZTgwOTc1MDg0NTM@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=Y1BpTDSgLEE",
-        genre: "comedy"
+        genre: "comedy",
+        banner: "https://twincitiesgeek.com/wp-content/uploads/2018/08/DSC1151.jpg"
             },
             {
         title: "Into the Forest",
@@ -923,7 +993,8 @@ array = [
         critics_consensus: "Into the Forest grounds its familiar apocalyptic framework with a relatable look at the bond between two sisters, compellingly brought to life by Elliot Page and Evan Rachel Wood.",
         image_url: "https://d2snwnmzyr8jue.cloudfront.net/atf_a24intotheforest_270.jpeg",
         trailer: "https://www.youtube.com/watch?v=_TRSvK-Omwc",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://www.hollywoodreporter.com/wp-content/uploads/2016/05/rachel.png"
             },
             {
         title: "Men",
@@ -936,7 +1007,8 @@ array = [
         critics_consensus: "If its narrative and thematic reach sometimes exceeds its grasp, magnetic performances from a stellar cast help Men make the most of its horror provocations.", 
         image_url: "https://m.media-amazon.com/images/M/MV5BZGQ2ZDNiMjgtMTNhNS00MjUxLWFkYTMtYTI1OTE0MmQ2MmJkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
         trailer: "https://www.youtube.com/watch?v=pt81CJcWZy8",
-        genre: "horror, drama"
+        genre: "horror, drama",
+        banner: "https://media.wired.com/photos/6286c786c3e9412350f63f4b/master/pass/Men-Essay-A24-Culture.jpg"
             },
             {
         title: "The Exception",
@@ -949,7 +1021,8 @@ array = [
         critics_consensus: "The Exception (The Kaiser's Last Kiss) elegantly blends well-dressed period romance and war drama into a solidly crafted story further elevated by Christopher Plummer's excellent work and the efforts of a talented supporting cast.",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/54e67f8b2524b232568998744cd28cb3621b5a54bfc566d973862ca05a5a3174._RI_V_TTW_.jpg",
         trailer: "https://www.youtube.com/watch?v=bD7bKSPFg_c",
-        genre: "comedy, drama"
+        genre: "comedy, drama",
+        banner: "https://www.gannett-cdn.com/-mm-/72c4e9103241e8e337ba5edf89f16615de559bd8/c=0-138-4000-2398/local/-/media/2017/04/22/USATODAY/USATODAY/636284574722250170-the-exception-epk-Jai-Courtney-in-A24s-THE-EXCEPTION-Photo-by-Marc-Bossaerts-rgb.jpg?width=1600&height=800&fit=crop&format=pjpg&auto=webp"
             },
             {
         title: "The Death of Dick Long",
@@ -962,7 +1035,8 @@ array = [
         critics_consensus: "The Death of Dick Long mixes dark humor with provocative ideas to produce a sharp blend that's admittedly uneven but uniquely satisfying.",
         image_url: "https://m.media-amazon.com/images/I/51MgYVqtkML._AC_.jpg",
         trailer: "https://www.youtube.com/watch?v=dGBe8xsWGlo",
-        genre: "war, romance"
+        genre: "war, romance",
+        banner: "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J2GWPRW6KQI6TMMZ6Y4L6LBUB4.jpg"
             },
             {
         title: "Enemy",
@@ -975,7 +1049,8 @@ array = [
         critics_consensus: "Thanks to a strong performance from Jake Gyllenhaal and smart direction from Denis Villeneuve, Enemy hits the mark as a tense, uncommonly adventurous thriller.",
         image_url: "https://m.media-amazon.com/images/M/MV5BMTQ2NzA5NjE4N15BMl5BanBnXkFtZTgwMjQ4NzMxMTE@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=FJuaAWrgoUY",
-        genre: "mystery, thriller"
+        genre: "mystery, thriller",
+        banner: "https://taylorholmes.com/wp-content/uploads/2018/08/enemy-movie-explained-1.jpg"
             },
             {
         title: "The Elephant Queen",
@@ -988,7 +1063,8 @@ array = [
         critics_consensus: "Informative, compassionate, and beautifully filmed, The Elephant Queen should satisfy nature documentary lovers of all ages.",
         image_url: "https://static.metacritic.com/images/products/movies/6/b1ac1d3d54162863d9849c7eebbdbede.jpg",
         trailer: "https://www.youtube.com/watch?v=e8TsCQmngFk",
-        genre: "documentary, adventure"
+        genre: "documentary, adventure",
+        banner: "https://static01.nyt.com/images/2019/10/18/arts/17elephantqueen-art/merlin_162491211_576ddd0e-4389-4a2d-8521-3f5c092184ed-superJumbo.jpg"
             },
             {
         title: "Share",
@@ -1001,7 +1077,8 @@ array = [
         critics_consensus: "Grim yet compelling, Share avoids rote didacticism thanks to sensitive direction and committed central performances.",
         image_url: "https://m.media-amazon.com/images/M/MV5BNzY0MmIyYzgtMWY2Ny00MWNiLTg3MWMtODhhODAyNzgyNjM2XkEyXkFqcGdeQXVyMTc4MDU3Mzk@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=FaiaD8wRNV8",
-        genre: "drama"            
+        genre: "drama",
+        banner: "https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/share-2019/Share_2019_1.jpg"            
 },
             {
         title: "The Ballad of Lefty Brown",
@@ -1014,7 +1091,8 @@ array = [
         critics_consensus: "No consensus yet.",
         image_url: "https://m.media-amazon.com/images/I/81iJTzdiLiL._SL1500_.jpg",
         trailer: "https://www.youtube.com/watch?v=Sv2khM97ylU",
-        genre: "western"   
+        genre: "western",   
+        banner: "https://www.slantmagazine.com/wp-content/uploads/2017/12/balladofleftybrown.jpg"
          },
             {
         title: "The Children Act",
@@ -1027,7 +1105,8 @@ array = [
         critics_consensus: "The Children Act showcases yet another powerful performance from Emma Thompson, who elevates this undeniably flawed picture into an affecting adult drama.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91ab0HRiU6L._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=kKQkUcJioxU",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://rogermooresmovienation.files.wordpress.com/2018/09/child1.jpg"
             },
             {
         title: "The Blackcoat's Daughter",
@@ -1040,7 +1119,8 @@ array = [
         critics_consensus: "Slow-building and atmospheric, The Blackcoat's Daughter resists girls-in-peril clichés in a supernatural thriller that serves as a strong calling card for debuting writer-director Oz Perkins.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/81KQ4x3wnxL._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=pRc_-iK3RVE",
-        genre: "horror"
+        genre: "horror",
+        banner: "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F03%2Fthe-blackcoats-daughter1-2000.jpg"
             },
             {
         title: "Swiss Army Man",
@@ -1053,7 +1133,8 @@ array = [
         critics_consensus: "Disarmingly odd and thoroughly well-acted, Swiss Army Man offers adventurous viewers an experience as rewarding as it is impossible to categorize.",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/191586782bb69472931e6cb5927728287b824eda6d1926c0a704604c2d39ef53._RI_V_TTW_.jpg",
         trailer: "https://www.youtube.com/watch?v=yrK1f4TsQfM",
-        genre: "comedy, adventure"
+        genre: "comedy, adventure",
+        banner: "https://rogermooresmovienation.files.wordpress.com/2016/06/swiss1.jpg"
             },
             {
         title: "Low Tide",
@@ -1066,7 +1147,8 @@ array = [
         critics_consensus: "No consensus yet.",
         image_url: "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2019/10/w1280/iEZrBPoWu4QYgOh594uCxDCEQDx.jpg",
         trailer: "https://www.youtube.com/watch?v=I2b5dmkDUa4",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://m.media-amazon.com/images/M/MV5BYjEzOTVkMzYtMjNlMS00ZjA2LWE0ZGQtN2NkMjNlYTg3N2IwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg"
             },
             {
         title: "The Kill Team",
@@ -1079,7 +1161,8 @@ array = [
         critics_consensus: "Flawed yet viscerally effective, The Kill Team interrogates battlefield morality with a hard-hitting intensity further amplified by a talented cast.",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6f90e8b9a9bbced0e3c98c32dcdbadbb995b9b9fdce2191a3803c8bb756a70c7._RI_V_TTW_.jpg",
         trailer: "https://www.youtube.com/watch?v=0mab6h2sE5g",
-        genre: "war, drama"
+        genre: "war, drama",
+        banner: "https://d135u4jtzauizi.cloudfront.net/_still/KT_trailerthumbwide.jpg"
             },
             {
         title: "Free Fire",
@@ -1092,7 +1175,8 @@ array = [
         critics_consensus: "Free Fire aims squarely for         genre thrills, and hits its target repeatedly and with great gusto -- albeit with something less than pure cinematic grace.",
         image_url: "https://m.media-amazon.com/images/I/910oURvHQAL._SL1500_.jpg",
         trailer: "https://www.youtube.com/watch?v=oDD3I0uOlqY",
-        genre: "action, comedy"
+        genre: "action, comedy",
+        banner: "https://static01.nyt.com/images/2017/04/21/arts/21freefire2/21freefire2-superJumbo.jpg"
             },
             {
         title: "Remember",
@@ -1105,7 +1189,8 @@ array = [
         critics_consensus: "Remember risks wandering into exploitative territory, but it's bolstered by some of Egoyan's best latter-day directing and a typically stellar performance from Christopher Plummer.",
         image_url: "https://m.media-amazon.com/images/I/91xyLtJ5M-L._SL1500_.jpg",
         trailer: "https://www.youtube.com/watch?v=vFxXCoprNqc",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://static01.nyt.com/images/2016/03/11/arts/11REMEMBER/11REMEMBER-superJumbo-v2.jpg"
             },
             {
         title: "Climax",
@@ -1118,7 +1203,8 @@ array = [
         critics_consensus: "Challenging and rewarding in equal measure, Climax captures writer-director Gaspar Noé working near his technically brilliant and visually distinctive peak.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91XJ7vxBA2L._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=gNp0jlfbgqM",
-        genre: "drama, music"
+        genre: "drama, music",
+        banner: "https://media.vanityfair.com/photos/5c797857ad0a3b2abd03f323/7:3/w_1869,h_801,c_limit/climax-review.jpg"
             },
             {
         title: "Spring Breakers",
@@ -1131,7 +1217,8 @@ array = [
         critics_consensus: "Spring Breakers blends stinging social commentary with bikini cheesecake and a bravura James Franco performance.",
         image_url: "https://m.media-amazon.com/images/I/51yY4eORYdL._AC_.jpg",
         trailer: "https://www.youtube.com/watch?v=imDML4om8z8",
-        genre: "comedy"
+        genre: "comedy",
+        banner: "https://www.indiewire.com/wp-content/uploads/2013/12/spring-breakers-4.jpg"
             },
             {
         title: "The Rover",
@@ -1144,7 +1231,8 @@ array = [
         critics_consensus: "Fueled by engaging performances from Guy Pearce and Robert Pattinson, the tension-filled The Rover overcomes its narrative faults through sheer watchability.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/81V0Fm-dhFL._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=ChM2icbWo9w",
-        genre: "drama"
+        genre: "drama",
+        banner: "http://prod-upp-image-read.ft.com/b4a66848-23b8-11e4-be13-00144feabdc0"
             },
             {
         title: "Laggies",
@@ -1157,7 +1245,8 @@ array = [
         critics_consensus: "Laggies may not do as much with its ideas as it could, but it's buoyed by a winsome performance from Kiera Knightley, as well as Lynn Shelton's empathetic direction.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91K6tpYXQBL._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=xep7s36qZL0",
-        genre: "romance"
+        genre: "romance",
+        banner: "https://popcultureocd.files.wordpress.com/2018/05/laggies.png"
             },
             {
             title: "The Sky is Everywhere",
@@ -1170,7 +1259,8 @@ array = [
         critics_consensus: "The Sky Is Everywhere never quite scales the heights of profundity to which it aspires, but star Grace Kaufman proves a perfect fit for director Josephine Decker's vision.",
         image_url: "https://m.media-amazon.com/images/M/MV5BNjhlYzU3NzYtZGU0Zi00ZGM2LTlkNjQtOWViMmI2NjM2MzQ2XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=7R_5fSWvGs4&ab_channel=AppleTV",
-        genre: "drama" 
+        genre: "drama",
+        banner: "https://www.thewrap.com/wp-content/uploads/2022/02/GramLennieSad.jpg" 
             },
             {
         title: "Son of a Gun",
@@ -1183,7 +1273,8 @@ array = [
         critics_consensus: "Gritty, stylish, and smart, Son of a Gun serves up plenty of        genre thrills while offering a refreshing change of pace for Ewan McGregor.",
         image_url: "https://m.media-amazon.com/images/I/81ZDHauyJgL._SL1500_.jpg",
         trailer: "https://www.youtube.com/watch?v=_9Bf9JkRwzU",
-        genre: "drama, crime"
+        genre: "drama, crime",
+        banner: "https://thedullwoodexperiment.files.wordpress.com/2014/10/son-of-a-gun-scene.jpg"
             },
             {
         title: "The Last Movie Star",
@@ -1196,7 +1287,8 @@ array = [
         critics_consensus: "The Last Movie Star has a few poignant moments thanks to Burt Reynolds and Ariel Winter, but their performances are stranded in a middling drama unworthy of their efforts.",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/fe1997e64b377f416a70314617c01bb0e0d9f53e7a2d4aa8396db86c4ecb607b._RI_V_TTW_.jpg",
         trailer: "https://www.youtube.com/watch?v=S_lN0-gtWF4",
-        genre: "comedy, drama"
+        genre: "comedy, drama",
+        banner: "https://www.rollingstone.com/wp-content/uploads/2018/06/the-last-movie-star-a48107b0-d36e-46e9-83db-2262f90dc3e5.jpg?resize=1800,1200&w=1800"
             },
             {
         title: "The Bling Ring",
@@ -1209,7 +1301,8 @@ array = [
         critics_consensus: "While it's certainly timely and beautifully filmed, The Bling Ring suffers from director Sofia Coppola's failure to delve beneath the surface of its shallow protagonists' real-life crimes.",
         image_url: "https://m.media-amazon.com/images/I/51o3jMiQzsL._SX385_.jpg",
         trailer: "https://www.youtube.com/watch?v=Q4LzhgExvrc",
-        genre: "comedy"
+        genre: "comedy",
+        banner: "https://media1.fdncms.com/styleweekly/imager/why-dont-bath-salt-crazed-flesh-eating-n/u/original/1915161/movies_feature1-1.jpg"
             },
             {
         title: "Native Son",
@@ -1222,7 +1315,8 @@ array = [
         critics_consensus: "Native Son's struggles with its problematic source material are uneven but overall compelling, thanks largely to Ashton Sanders' poised work in the central role.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/71b1Nacb-EL._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=ghfwH5jWTbc",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2019%2F01%2F46020044171_f91408d698_o-2000.jpg&q=60"
             },
             {
         title: "Woman Walks Ahead",
@@ -1235,7 +1329,8 @@ array = [
         critics_consensus: "Woman Walks Ahead gets some extra mileage out of watchable work from Jessica Chastain and Michael Greyeyes, but uneven pacing and two-dimensional characters undermine their efforts.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91W5s1juNXL._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=qHR0AEDMg0M",
-        genre: "western"
+        genre: "western",
+        banner: "https://api.time.com/wp-content/uploads/2018/06/woman-walks-ahead.jpg"
             },
             {
         title: "Under the Silver Lake",
@@ -1246,9 +1341,10 @@ array = [
         starring: "Andrew Garfield, Riley Keough, Topher Grace, Patrick Fischler",
         synopsis: "Sam is a disenchanted 33-year-old who discovers a mysterious woman, Sarah, frolicking in his apartment's swimming pool. When she vanishes, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal, and conspiracy in the City of Angels.",
         critics_consensus: "Under the Silver Lake hits its stride slightly more often than it stumbles, but it's hard not to admire - or be drawn in by - writer-director David Robert Mitchell's ambition.",
-        image_url: "https://i.pinimg.com/736x/43/7f/dd/437fddb42d25ec88cacc3a341fc0bcb9.jpg",
+        image_url: "https://m.media-amazon.com/images/I/817C9ClVvDL._SL1500_.jpg",
         trailer: "https://www.youtube.com/watch?v=mwgUesU1pz4" ,
-        genre: "comedy"
+        genre: "comedy",
+        banner: "https://images.squarespace-cdn.com/content/v1/5b8d50fe89c172835f96fe61/1561057280660-D6F1GLI7HKWJ9XKC1YWN/usl.jpg"
             },
             {
         title: "Trespass Against Us",
@@ -1261,7 +1357,8 @@ array = [
         critics_consensus: "Trespass Against Us benefits from Michael Fassbender and Brendan Gleeson's typically strong performances, even when they aren't quite enough to balance the story's narrative drift and awkward tonal shifts.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91d3dFnDUUL._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=vnq8jZejw-s" ,
-        genre: "crime, mystery, thriller"
+        genre: "crime, mystery, thriller",
+        banner: "https://cdn.theplaylist.net/wp-content/uploads/2017/01/15005702/Trespass-Against-Us-1.jpg"
             },
             {
         title: "Slice",
@@ -1274,7 +1371,8 @@ array = [
         critics_consensus: "No consensus yet.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91jmCpt4fKL._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=i5LUKX97bNA" ,
-        genre: "horror, comedy"
+        genre: "horror, comedy",
+        banner: "https://bloody-disgusting.com/wp-content/uploads/2018/09/Photo-1.jpg"
             },
             {
         title: "False Positive",
@@ -1287,7 +1385,8 @@ array = [
         critics_consensus: "Its classic horror aims exceed its blood-slicked grasp, but False Positive works its way sneakily under the skin.",
         image_url: "https://m.media-amazon.com/images/M/MV5BN2M2N2Q5Y2QtYmI5OS00OWU3LTlkNDgtNWY4YTAwNDFjZmUyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
         trailer: "https://www.youtube.com/watch?v=HL2Q3rHvxew",
-        genre: "horror, mystery, thriller"
+        genre: "horror, mystery, thriller",
+        banner: "https://m.media-amazon.com/images/M/MV5BNTA3ZWI4MGMtZmQ4OC00NTk2LWFjNmYtMjBmY2VjYTYzNzcwXkEyXkFqcGdeQWFybm8@._V1_.jpg"
             },
             {
         title: "How to Talk to Girls at Parties",
@@ -1300,7 +1399,8 @@ array = [
         critics_consensus: "How to Talk to Girls at Parties has energy and ambition, but is ultimately too unfocused to do much with either -- or develop its themes into a cohesive whole.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/A1S21kuoNEL._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=nWzHaRM8jeo",
-        genre: "romance"
+        genre: "romance",
+        banner: "https://popcultureocd.files.wordpress.com/2018/12/how-to-talk-to-girls.jpg"
             },
             {
         title: "Tusk",
@@ -1313,7 +1413,8 @@ array = [
         critics_consensus: "Tusk is pleasantly ridiculous and charmingly self-deprecating, but that isn't enough to compensate for its thin, overstretched story.",
         image_url: "https://m.media-amazon.com/images/I/51Mb9N0eWgL.jpg",
         trailer: "https://www.youtube.com/watch?v=BCQJnOn0ru0",
-        genre: "horror"
+        genre: "horror",
+        banner: "https://play-lh.googleusercontent.com/proxy/RSm97bfCpU24FMGNKK5Zxpmj4QRIqYF7TfxWuoA_crplYIz6Vp6hXcLpIvgqo85OzUX3q0xlXIvxBki4H9-BFhCcmVVahtjOFi4r3E4WrdLSWJqNFP2B5-GFOg=s1920-w1920-h1080"
             },
             {
         title: "Life After Beth",
@@ -1326,7 +1427,8 @@ array = [
         critics_consensus: "In spite of Aubrey Plaza's committed performance, Life After Beth remains a sketch-worthy idea that's been uncomfortably stretched to feature length.",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4fa57f41188ac7101dd996575f420fa0dc3ede92efe85c224ce93674fc19d14a._RI_V_TTW_.jpg",
         trailer: "https://www.youtube.com/watch?v=pVtaRAAWJss",
-        genre: "comedy, horror"
+        genre: "comedy, horror",
+        banner: "https://api.time.com/wp-content/uploads/2014/08/life-after-beth.jpg"
             },
             {
         title: "Hot Summer Nights",
@@ -1339,7 +1441,8 @@ array = [
         critics_consensus: "Hot Summer Nights is easy on the eyes and clearly indebted to some great films, but its strengths -- including a charismatic young cast -- are often outweighed by its uninspired story.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/A1AliwDHqLL._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=M2nWr1jwPK4",
-        genre: "romance, drama"
+        genre: "romance, drama",
+        banner: "https://loganbushey.files.wordpress.com/2018/06/mv5bntqyzgmwzjitztc4my00nthklwfkzmutm2mznzzim2exyjzixkeyxkfqcgdeqxvyntgynzq4odq-_v1_sx1777_cr001777826_al_.jpg"
             },
             {
         title: "Backstabbing for Beginners",
@@ -1352,7 +1455,8 @@ array = [
         critics_consensus: "No consensus yet.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/815U3MNiHHL._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=P3GdyaVQ20I",
-        genre: "drama"
+        genre: "drama",
+        banner: "https://www.slantmagazine.com/wp-content/uploads/2018/04/backstabbingforbeginners.jpg"
             },
             {
         title: "Equals",
@@ -1365,7 +1469,8 @@ array = [
         critics_consensus: "Equals is a treat for the eyes, but its futuristic aesthetic isn't enough to make up for its plodding pace and aimlessly derivative story.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/81h-EqcHUrL._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=6GiU2SSG624",
-        genre: "romance, drama" 
+        genre: "romance, drama",
+        banner: "https://www.indiewire.com/wp-content/uploads/2016/05/21-equals.jpg"
             },
             {
         title: "Cut Bank",
@@ -1378,7 +1483,8 @@ array = [
         critics_consensus: "Cut Bank contains typically outstanding work from its solid veteran cast, but it's lost in a dull morass of predictably derivative crime thriller clichés.",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/043fb95fdb11b3ada14622a6ed4c771d516c0bdad3f7007a26b62849a38af1df._RI_V_TTW_.jpg",
         trailer: "https://www.youtube.com/watch?v=uvavIfjTDaE",
-        genre: "mystery, thrillers" 
+        genre: "mystery, thrillers", 
+        banner: "https://popcultureocd.files.wordpress.com/2018/06/cut-bank.jpg"
             },
             {
         title: "Outlaws",
@@ -1391,7 +1497,8 @@ array = [
         critics_consensus: "No consensus yet.",
         image_url: "https://m.media-amazon.com/images/I/81XQAd6mlTL._SL1500_.jpg",
         trailer: "https://www.youtube.com/watch?v=7hxqPxXV27E",
-        genre: "crime, drama"
+        genre: "crime, drama",
+        banner: "https://static01.nyt.com/images/2019/01/30/arts/outlaws1/merlin_149860554_5b632bdb-98b7-45af-a8cb-dc4ffb28dd18-superJumbo.jpg"
             },
             {
         title: "Mojave",
@@ -1404,7 +1511,8 @@ array = [
         critics_consensus: "Mojave has no shortage of talent on either side of the camera; unfortunately, it amounts to little more than a frustrating missed opportunity.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/A1zvMI3EwoL._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=xq9mAa1Dhkg",
-        genre: "mystery, thriller" 
+        genre: "mystery, thriller", 
+        banner: "https://media.npr.org/assets/img/2016/01/19/mojave-dsc_3613_rgb_wide-d96be09f234e44034840abe9c457e7be09aa8111.jpg?s=1400"
             },
             {
         title: "The Captive",
@@ -1417,7 +1525,8 @@ array = [
         critics_consensus: "Wan and lugubrious, The Captive represents another atmospheric, beautifully filmed misfire from director Atom Egoyan.",
         image_url: "https://images-na.ssl-images-amazon.com/images/I/91HaH6htDHL._RI_.jpg",
         trailer: "https://www.youtube.com/watch?v=5z3_vcRbi7k",
-        genre: "mystery, thriller" 
+        genre: "mystery, thriller",
+        banner: "https://1.bp.blogspot.com/-yinyPHcYLPk/XmP1VKWhzmI/AAAAAAAAeEg/6GQUUX_IomYTl5EJB6uiTQXQ973hwWCLwCLcBGAsYHQ/s1600/The%2BCaptive%2B1.jpg"
             },
             {
         title: "Woodshock",
@@ -1430,7 +1539,8 @@ array = [
         critics_consensus: "Woodshock's engages visually, but its half-baked premise is as underwhelming as it is unsatisfying.",
         image_url: "https://m.media-amazon.com/images/I/71Qw6oKUnhL._SY445_.jpg",
         trailer: "https://www.youtube.com/watch?v=RpscZ_YD-ns",
-        genre: "drama" 
+        genre: "drama",
+        banner: "https://www.indiewire.com/wp-content/uploads/2017/05/screen-shot-2017-05-09-at-8-49-25-am.png"
             },
             {
         title: "Barely Lethal",
@@ -1443,7 +1553,8 @@ array = [
         critics_consensus: "No consensus yet.",
         image_url: "https://m.media-amazon.com/images/I/81nzhrK1GPL._SL1500_.jpg",
         trailer: "https://www.youtube.com/watch?v=HwLY3aiT26U",
-        genre: "action, comedy" 
+        genre: "action, comedy",
+        banner: "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2015%2F06%2Fbarely-lethal-2000.jpg"
             },
             {
         title: "Dark Places",
@@ -1456,7 +1567,8 @@ array = [
         critics_consensus: "Dark Places has a strong cast and bestselling source material, but none of it adds up to more than a mediocre thriller that gets tripped up on its own twists.",
         image_url: "https://m.media-amazon.com/images/I/41rkVnJCHJL._AC_.jpg",
         trailer: "https://www.youtube.com/watch?v=SpG5dWV7piw",
-        genre: "mystery, thriller" 
+        genre: "mystery, thriller", 
+        banner: "https://ca-times.brightspotcdn.com/dims4/default/b8fae95/2147483647/strip/true/crop/1600x900+0+0/resize/1486x836!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F22%2F54222fd990a8f9d781be6cc2c0b8%2Fla-et-mn-dark-places-movie-review-20150807-001"
             },
             {
         title: "The Adderall Diaries",
@@ -1469,7 +1581,8 @@ array = [
         critics_consensus: "Stylistically overwrought and tedious, The Adderall Diaries aspires for profundity but instead feels like a shambolic class project thrown together right before it was due.",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/52638c516110607fe7eb8b2c1ae146e6b8cb239ea0b3c989d222ea2d1b4eefe6._RI_V_TTW_.jpg",
         trailer: "https://www.youtube.com/watch?v=_qVMu-qnuNg",
-        genre: "drama" 
+        genre: "drama",
+        banner: "https://www.justwatch.com/images/backdrop/60688159/s1440/the-adderall-diaries"
             },
             {
         title: "The Sea of Trees",
@@ -1482,7 +1595,8 @@ array = [
         critics_consensus: "Dull, maudlin, and fundamentally empty, The Sea of Trees extinguishes the contributions of a talented cast and marks a depressing low point in director Gus Van Sant's career.",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/5132517af0c621a65a22ead8bb4d90a93afdcb228287c9fba0bf4c5f341761a0._RI_V_TTW_.jpg",
         trailer: "https://www.youtube.com/watch?v=2tuemib6AG4",
-        genre: "drama" 
+        genre: "drama", 
+        banner: "https://images.squarespace-cdn.com/content/v1/52d6d1ede4b0b322e9c7a2ea/1472849890037-QAP7U8MQM7FPL4RFS2RN/image-asset.jpeg"
             },
             {
         title: "A Glimpse Inside the Mind of Charles Swan III",
@@ -1495,7 +1609,8 @@ array = [
         critics_consensus: "Charlie Sheen, Jason Schwartzman, Bill Murray, Patricia Arquette",
         image_url: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/14d9db5677b176e0bf5e777d66bd9f68a6ca39719773b69d7852a17dcaa7a1ee._RI_V_TTW_.jpg",
         trailer: "https://www.youtube.com/watch?v=OWijct7LzAE",
-        genre: "comedy, drama" 
+        genre: "comedy, drama", 
+        banner: "https://media.npr.org/assets/img/2013/02/06/cs3_partyphoto_hires_wide-7f0b4e13f8facdfe03ec198e9c896f7756c29082.jpg"
             },
             {
         title: "Revenge of the Green Dragons",
@@ -1508,7 +1623,8 @@ array = [
         critics_consensus: "No consensus yet.",
         image_url: "https://m.media-amazon.com/images/I/51Y+hsjXWFL._SY445_.jpg",
         trailer: "https://www.youtube.com/watch?v=M2eKchU1GZo",
-        genre: "action" 
+        genre: "action",
+        banner: "https://chlotrudis.org/wp-content/uploads/2017/12/revenge-1.jpg"
             },
             {
         title: "Sidney Hall",
@@ -1521,13 +1637,14 @@ array = [
         critics_consensus: "No consensus yet.",
         image_url: "https://images.justwatch.com/poster/85383346/s718/la-desaparicion-de-sidney-hall.%7Bformat%7D",
         trailer: "https://www.youtube.com/watch?v=jmSciysEDoE",
-        genre: "drama" 
+        genre: "drama", 
+        banner: "https://lamplightreview.com/wp-content/uploads/2018/03/sidney-hall-trailer-01-scaled.jpg"
             }
 ]
 
 
 array.each do |o| 
-Film.create(title: o[:title], year: o[:year], runtime: o[:runtime], rotten_tomatoes_score: o[:rotten_tomatoes_score], director: o[:director], starring: o[:starring], synopsis: o[:synopsis], critics_consensus: o[:critics_consensus], image_url: o[:image_url], trailer: o[:trailer], genre: o[:genre])
+Film.create(title: o[:title], year: o[:year], runtime: o[:runtime], rotten_tomatoes_score: o[:rotten_tomatoes_score], director: o[:director], starring: o[:starring], synopsis: o[:synopsis], critics_consensus: o[:critics_consensus], image_url: o[:image_url], trailer: o[:trailer], genre: o[:genre], banner: o[:banner])
 end
 
 10.times do |o|
@@ -1540,3 +1657,5 @@ end
 
 
 puts "✅ Done seeding!"
+
+
