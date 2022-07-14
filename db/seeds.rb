@@ -669,7 +669,7 @@ array = [
         starring: "Taylour Paige, Riley Keough, Nicholas Braun, Colman Domingo",
         synopsis: "Zola, a Detroit waitress, is seduced into a weekend of stripping in Florida for some quick cash -- but the trip becomes a sleepless 48-hour odyssey involving a nefarious friend, her pimp and her idiot boyfriend.",
         critics_consensus: "Zola captures the stranger-than-fiction appeal of the viral Twitter thread that inspired it -- and announces director/co-writer Janicza Bravo as a filmmaker to watch.",
-        image_url: "https://img.moviepostershop.com/zola-movie-poster-2021-1000780928.jpg",
+        image_url: "https://media-cache.cinematerial.com/p/500x/hmjjxtcm/zola-movie-poster.jpg?v=1582196644",
         trailer: "https://www.youtube.com/watch?v=fp2x4M5-lpM&ab_channel=A24",
         genre: "comedy, mystery, thriller",
         banner: "https://www.gannett-cdn.com/presto/2021/06/24/NA36/9b1dea2f-6a92-45b3-8fd2-0b0ac13cf222-Zola_Pull_19_R.jpg"
@@ -687,6 +687,20 @@ array = [
         trailer: "https://www.youtube.com/watch?v=6JnFaltqnAY&ab_channel=A24",
         genre: "comedy, drama",
         banner: "https://media2.sacurrent.com/sacurrent/imager/u/original/2577284/20th-century-women-pics.jpg"
+            },
+            {
+        title: "After Yang",
+        year: 2021,
+        runtime: 103,
+        rotten_tomatoes_score: 88,
+        director: "Kogonada",
+        starring: "Colin Farrell, Jodie Turner-Smith, Justin H. Min, Malea Emma Tjandrawidjaja",
+        synopsis: "Although its reach occasionally exceeds its grasp, After Yang yields rich rewards for those willing to settle into its low-key wavelength.",
+        critics_consensus: "When his young daughter's beloved companion -- an android named Yang -- malfunctions, Jake (Colin Farrell) searches for a way to repair him. In the process, Jake discovers the life that has been passing in front of him, reconnecting with his wife (Jodie Turner-Smith) and daughter across a distance he didn't know was there.",
+        image_url: "https://m.media-amazon.com/images/M/MV5BZjkzYmFjZGItMDYwMy00YTljLWE0YWYtOWNmNzdkZDdlYmI5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+        trailer: "https://www.youtube.com/watch?v=Kwp32zLc08c&ab_channel=A24",
+        genre: "drama, sci-fi",
+        banner: "http://www.highonfilms.com/wp-content/uploads/2022/03/After-Yang-Movie-Explained-Family-in-Yangs-Memory.png"
             },
             {
         title: "On the Rocks",
@@ -935,7 +949,7 @@ array = [
         starring: "Elle Fanning, Alice Englert, Alessandro Nivola, Christina Hendricks",
         synopsis: "In 1962 London, the lifelong friendship between two teenagers (Elle Fanning, Alice Englert) dissolves after one seduces the other's father.",
         critics_consensus: "Elle Fanning gives a terrific performance in this powerful coming-of-age tale about a pair of teenage girls whose friendship is unnerved by the threat of nuclear war.",
-        image_url: "https://www.amazon.com/Ginger-Rosa-DVD-Elle-Fanning/dp/B00EGI7UPK",
+        image_url: "https://media-cache.cinematerial.com/p/500x/1mpf4ot0/ginger-rosa-movie-poster.jpg?v=1456548577",
         trailer: "https://www.youtube.com/watch?v=13oRYH0YpSA",
         genre: "drama, lgbtq+",
         banner: "https://www.showbizjunkies.com/wp-content/uploads/2013/03/ginger-and-rosa-review-1280x720.jpg"
@@ -1061,7 +1075,7 @@ array = [
         starring: "Rhianne Barreto, Charlie Plummer, Poorna Jagannathan, J.C. MacKenzie",
         synopsis: "A disturbing video leaked from a local high school throws a Long Island community into chaos and the national spotlight as it tries to unravel the story behind it.",
         critics_consensus: "Grim yet compelling, Share avoids rote didacticism thanks to sensitive direction and committed central performances.",
-        image_url: "https://pics.filmaffinity.com/Share-701889997-large.jpg",
+        image_url: "https://m.media-amazon.com/images/M/MV5BNzY0MmIyYzgtMWY2Ny00MWNiLTg3MWMtODhhODAyNzgyNjM2XkEyXkFqcGdeQXVyMTc4MDU3Mzk@._V1_.jpg",
         trailer: "https://www.youtube.com/watch?v=FaiaD8wRNV8",
         genre: "drama",
         banner: "https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/share-2019/Share_2019_1.jpg"            
@@ -1235,6 +1249,20 @@ array = [
         banner: "https://popcultureocd.files.wordpress.com/2018/05/laggies.png"
             },
             {
+            title: "The Sky is Everywhere",
+        year: 2022,
+        runtime: 103,
+        rotten_tomatoes_score: 65,
+        director: "Josephine Decker",
+        starring: "Grace Kaufman, Pico Alexander, Jason Segel, Cherry Jones",
+        synopsis: "Tucked among the magical redwood trees of Northern California and surrounded by her grandmother's gargantuan roses, 17-year-old Lennie Walker, a radiant musical prodigy, struggles with overwhelming grief following the sudden loss of her older sister, Bailey. When Joe Fontaine, the charismatic new guy at school, enters Lennie's life, she's drawn to him. But Lennie's complicated relationship with her sister's devastated boyfriend, Toby, starts to affect Lennie and Joe's budding love. Through her vivid imagination and honest, conflicted heart, Lennie navigates first love and first loss to create a song of her own.",
+        critics_consensus: "The Sky Is Everywhere never quite scales the heights of profundity to which it aspires, but star Grace Kaufman proves a perfect fit for director Josephine Decker's vision.",
+        image_url: "https://m.media-amazon.com/images/M/MV5BNjhlYzU3NzYtZGU0Zi00ZGM2LTlkNjQtOWViMmI2NjM2MzQ2XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+        trailer: "https://www.youtube.com/watch?v=7R_5fSWvGs4&ab_channel=AppleTV",
+        genre: "drama",
+        banner: "https://www.thewrap.com/wp-content/uploads/2022/02/GramLennieSad.jpg" 
+            },
+            {
         title: "Son of a Gun",
         year: 2015,
         runtime: 108,
@@ -1313,7 +1341,7 @@ array = [
         starring: "Andrew Garfield, Riley Keough, Topher Grace, Patrick Fischler",
         synopsis: "Sam is a disenchanted 33-year-old who discovers a mysterious woman, Sarah, frolicking in his apartment's swimming pool. When she vanishes, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal, and conspiracy in the City of Angels.",
         critics_consensus: "Under the Silver Lake hits its stride slightly more often than it stumbles, but it's hard not to admire - or be drawn in by - writer-director David Robert Mitchell's ambition.",
-        Image_url: "https://m.media-amazon.com/images/I/817C9ClVvDL._SL1500_.jpg",
+        image_url: "https://m.media-amazon.com/images/I/817C9ClVvDL._SL1500_.jpg",
         trailer: "https://www.youtube.com/watch?v=mwgUesU1pz4" ,
         genre: "comedy",
         banner: "https://images.squarespace-cdn.com/content/v1/5b8d50fe89c172835f96fe61/1561057280660-D6F1GLI7HKWJ9XKC1YWN/usl.jpg"
