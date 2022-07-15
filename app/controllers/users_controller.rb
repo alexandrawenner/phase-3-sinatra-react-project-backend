@@ -8,7 +8,7 @@ class UsersController < ApplicationController
 
   # Returns all reviews for specific user 
   get "/users/:id" do
-    user_reviews = User.find(params[:id]).reviews
-    user_reviews.to_json
+    user = User.find(params[:id])
+    user.to_json
   end
 end

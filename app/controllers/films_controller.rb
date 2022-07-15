@@ -1,7 +1,7 @@
 class FilmsController < ApplicationController
 
  # Returns all films
- get "/films" do
+  get "/films" do
     films = Film.all
     films.to_json
   end
